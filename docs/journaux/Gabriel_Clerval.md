@@ -49,7 +49,7 @@ il n'y à pas d'écarts
 il n'y à pas d'écarts donc il n'y a pas besoin de solution à une situation non existante.
 
 ### Défis pour la prochaine semaine
-Commencer le début du projet et se familiariser à nouveau avec les logiciels requis pour le projet. 
+Commencer le projet et se familiariser à nouveau avec les logiciels requis pour le projet. 
 
 ---
 ## Semaine 2
