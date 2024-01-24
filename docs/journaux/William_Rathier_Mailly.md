@@ -1,5 +1,5 @@
 # Journal de William Rathier Mailly
-![portrait du participant ](../web/medias/William Rathier Mailly/portrait.JPG)
+![portrait du participant ](../web/medias/will/portrait.JPG)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
