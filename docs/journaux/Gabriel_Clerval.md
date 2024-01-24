@@ -15,9 +15,9 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
+- Donner des inspirations pour le projet 
+- Aide à la correction de quelques détails du projet 
+- Début des notes de mon journal personnel 
 - Praesent viverra tristique malesuada. 
 - Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
 - Phasellus blandit elit eu nibh blandit molestie. 
@@ -50,13 +50,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+il n'y à pas d'écarts
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+il n'y à pas d'écarts donc il n'y a pas besoin de solution à une situation non existante.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Commencer le début du projet et se familiariser à nouveau avec les logiciels requis pour le projet. 
 
 ---
 ## Semaine 2
