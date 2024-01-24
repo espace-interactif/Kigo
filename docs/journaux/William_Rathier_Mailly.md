@@ -35,11 +35,11 @@
 
 #### Décrivez pourquoi.
 
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo.
+Pour une première semaine, je ne vois pas encore de problèmes. Nous avons une bonne communication et je pense que ça va continuer comme cela. Je travail pour que l'équipe ne manque de rien et pour l'instant je réussi très bien.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Continuer comme ont le fait déjà.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -50,7 +50,7 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 
 #### S'il y a des écarts, décrivez-les.
 
-Pour une première semaine, je ne vois pas encore de problèmes. Nous avons une bonne communication et je pense que ça va continuer comme cela.
+il n'y a pas de problèmes d'échéance.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
