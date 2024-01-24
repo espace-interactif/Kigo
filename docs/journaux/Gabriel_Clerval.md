@@ -18,6 +18,7 @@
 - Donner des inspirations pour le projet 
 - Aide à la correction de quelques détails du projet 
 - Début des notes de mon journal personnel 
+- Début des recherches pour la création de son
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/gabriel/equipesemaine1.png)
