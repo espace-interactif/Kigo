@@ -1,5 +1,5 @@
 # Journal de Nicolas St-martin
-![portrait du participant ](medias/nicolas/Nicolas_profil.png)
+![portrait du participant ](../web/medias/participants/Nicolas.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
