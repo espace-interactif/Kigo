@@ -24,13 +24,13 @@ ou
 ![ici est une description de l'image](medias/nicolas/moodboard-nico.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai trouver une super idée de nom de projet qui plait à tout le monde et qui rajoute une profondeur au projet
+J'ai trouver une super idée de nom de projet qui plait à tout le monde et qui rajoute une profondeur suplémentaire au projet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 aucun
