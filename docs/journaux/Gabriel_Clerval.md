@@ -33,7 +33,7 @@
 Moi et mon équipe avons rattrapé le retard qu'on avait puisque nous avons décidé de se joindre en une équipe à la place d'avoir plusieurs projets différents.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Continuer à s'entre-aider en équipe pour trouver une solution rapide pour finir le projet dans les temps.
+Continuer à s'entre-aider en équipe pour trouver une solution rapide et  finir le projet dans les temps.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
