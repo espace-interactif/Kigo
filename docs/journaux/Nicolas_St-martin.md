@@ -19,9 +19,9 @@
 - Réalisation d'un Moodboard Général du projet.
 
 ### Image d'une ou plusieurs réalisation dont je suis le plus fier
-![ici est une description de l'image](medias/kigo-definition.PNG)
+![ici est une description de l'image](medias/nicolas/kigo-definition.PNG)
 ou
-![ici est une description de l'image](medias/moodboard-nico.PNG)
+![ici est une description de l'image](medias/nicolas/moodboard-nico.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -33,7 +33,7 @@ ou
 J'ai trouver une super idée de nom de projet qui plait à tout le monde et qui rajoute une profondeur au projet
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+aucun
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -43,13 +43,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+aucun
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+aucun
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Terminer la préproduction à 100%.
 
 ---
 ## Semaine 2
