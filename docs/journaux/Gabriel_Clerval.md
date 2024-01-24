@@ -53,7 +53,7 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 il n'y à pas d'écarts
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-il n'y à pas d'écarts donc il pas besoin de solution à une situation non existante.
+il n'y à pas d'écarts donc il n'y a pas besoin de solution à une situation non existante.
 
 ### Défis pour la prochaine semaine
 Commencer le début du projet et se familiariser à nouveau avec les logiciels requis pour le projet. 
