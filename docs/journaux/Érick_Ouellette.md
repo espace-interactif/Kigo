@@ -1,5 +1,5 @@
 # Journal d'Érick
-![portrait du participant ](../web/medias/participants/erick.png)
+![portrait du participant ](../web/medias/participants/erick.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
