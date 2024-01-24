@@ -1,5 +1,5 @@
 # Journal de Antoine Dion
-![portrait du participant ](../medias/portrait_antoine.png)
+![portrait du participant ](../web/medias/participants/portrait_antoine.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
