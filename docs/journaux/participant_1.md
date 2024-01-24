@@ -1,4 +1,4 @@
-# Journal de "Participant 1"
+# Journal de William Rathier Mailly
 ![portrait du participant ](../web/medias/participants/A.png)
 
 * [Semaine 1](#semaine-1)
