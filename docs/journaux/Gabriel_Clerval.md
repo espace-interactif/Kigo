@@ -18,10 +18,6 @@
 - Donner des inspirations pour le projet 
 - Aide à la correction de quelques détails du projet 
 - Début des notes de mon journal personnel 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/gabriel/equipesemaine1.png)
@@ -29,15 +25,15 @@
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Moi et mon équipe avons rattrapé le retard qu'on avait puisque nous avons décidé de se joindre en une équipe à la place d'avoir plusieurs projets différents.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Continuer à s'entre-aider en équipe pour trouver une solution rapide pour finir le projet dans les temps.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
