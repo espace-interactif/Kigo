@@ -1,5 +1,5 @@
 # Journal de "Gabriel Clerval"
-![portrait du participant ](web/medias/gabriel/gabriel-image.jpg)
+![portrait du participant ](web/medias/gabriel/gabriel-image.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
