@@ -24,7 +24,7 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![premier fichier du projet](medias/motionCapture.jpg)
+![premier fichier du projet](medias/will/fichier_realisé.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
