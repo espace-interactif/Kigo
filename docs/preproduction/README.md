@@ -38,6 +38,9 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 ![](./dion_antoine_plan_installation.drawio.png)
 
+### Scénario,scénarimage
+
+
 ### Plans technique
 
 ### Matériaux requis
