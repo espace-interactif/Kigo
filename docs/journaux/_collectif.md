@@ -18,9 +18,10 @@
 ## Semaine 2
 
 ## Semaine 1
+Notre équipe a travaillé à finaliser la préproduction, car notre projet a beaucoup changé.
+La conception de moodboard a aidé à conceptualiser l'idée du projet.
+![modboard](medias/Erick/moodboard.png)
 
+Les problèmes rencontrés seraient malheureusement le temps et le trop pleins d'idées en si peu de temps. Or, nous avions beaucoup d'idées et c'était difficile de choisir parmi nos choix. Ce qui nous retardait sur les autres travaux que nous devions faire.
 
-
-
-
-
+Pour finir la semaine 1, Thomas nous a demandé un devoir que nous avons réalisé vendredi en appel teams.
