@@ -18,10 +18,19 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 ### Moodboard
 
-![Inspiration](medias/moodboard-kigo.png)  
+![Inspiration](/moodboard-kigo.png)  
+
+### Références
+
+[Références|Fit it sur steam](https://store.steampowered.com/app/951450/Fit_It/)
+
+[Références|Hole in the Wall](https://www.youtube.com/watch?v=7oIag7dTup0)
+
+[Références|Resident Evil 4 Target Practice inspiration](https://www.youtube.com/watch?v=dxOleXVO4lw&t=44s)
 
 
 ### Documents
+### Scénarimages
 
 ## Contenu multimédia à intégrer
 
@@ -38,47 +47,34 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 ![](./dion_antoine_plan_installation.drawio.png)
 
-### Scénario,scénarimage
-
-
 ### Plans technique
 
 ### Matériaux requis
 
-> Il se peut qu'il y ait d'autres matériaux à ajouter à la liste. Ceux-ci seront ajoutés à la liste en temps opportun s'ils s'avèrent nécessaire à la réalisation des projets.
-
-- Des lumières
-- Mur amovible
-- Leds
-
-### Équipement requis
-
-> Il se peut qu'il y ait d'autres équipements requis à ajouter à la liste. Ceux-ci seront ajoutés à la liste en temps opportun s'ils s'avèrent nécessaire à la réalisation des projets.
-
-#### Audio
-
-- Interface audio USB disposant 8 sorties
-- haut-parleurs actifs de 4"
-
-#### Vidéo
-
-- Kinect
-
-#### Électricité
-
-- Des multiprise
-- Des extentions
-- Des conducteurs
-- Fils (Électrique, HDMI et autres)
-
-#### Ordinateur
-
-- Ordinateurs
-
-
-#### Autres
-
-- Leds
+- Kinect V2
+- Projecteur
+- Ordinateur portable Windows
+- Extension électrique
+- Fils Ethernet (Pour s'assurer d'une bonne connexion internet)
+- Tapis de protection
+- Litepanel
+- Safety en métal
+- Sac de sables de 15 lbs
+- Superclamp Manfrotto 035
+- HDMI Extender
+- Powerbar
+- Chariot Ordinateur
+- Câbles HDMI
+- Console de son
+- Câble d’alimentation pour ordinateur
+- Câble d’alimentation pour console de son
+- Câble d’alimentation pour projecteur
+- Câble displayPort
+- Câble XLR
+- Powercon
+- Extensions fil électrique
+- Magic arm
+- Genelec 8010APM
 
 ### Logiciels requis
 
@@ -96,6 +92,7 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 - Les membres de l'équipe pour l'installation des projets
 - Les participants (le public)
 - Guillaume Arsenault
+- Thomas Ouellet Fredericks
 
 ### Ressources spatiales requise
 
@@ -214,3 +211,9 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 - Coordination artistique 3D
 
 ### Moments des rencontres d'équipe
+- Lundi 17:10 (1h après le Scrum)
+- Mardi 15:20 (1h après la rencontre avec les professeurs)
+- Mercredi 14:25 (1h après la rencontre avec les professeurs)
+- Jeudi 12:35 (1h après la rencontre avec les professeurs)
+- Vendredi ( Rencontre a l'école ou via teams durant le travail autonome)
+
