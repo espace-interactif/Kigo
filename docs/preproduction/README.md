@@ -30,6 +30,7 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 
 ### Documents
+
 ### Scénarimages
 
 ### Schéma de Plantation
@@ -42,6 +43,11 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 - Musique (optionnelle)
 
 ### Inventaire du contenu multimédia
+
+| Actions du joueur  |Son reliés à L'action |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### Univers artistique des éléments
 
