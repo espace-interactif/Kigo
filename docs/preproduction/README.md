@@ -18,7 +18,7 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 ### Moodboard
 
-![Inspiration](/moodboard-kigo.png)  
+![Inspiration](medias/moodboard-kigo.png)  
 
 ### Références
 
