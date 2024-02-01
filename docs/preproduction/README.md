@@ -32,6 +32,9 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 ### Documents
 ### Scénarimages
 
+### Schéma de Plantation
+![Schéma](medias/schemaplantation.png)  
+
 ## Contenu multimédia à intégrer
 
 - Des paysages différents pour chaque saison.
