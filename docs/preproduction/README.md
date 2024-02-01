@@ -46,8 +46,8 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 | Actions du joueur  |Son reliés à L'action |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Marcher à droite à gauche  | *son à décider*  |
+| Sauter | *son à décider*  |
 
 ### Univers artistique des éléments
 
