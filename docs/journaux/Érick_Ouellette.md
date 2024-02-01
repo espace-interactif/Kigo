@@ -53,6 +53,7 @@ Commencer à modéliser des arbres ou d'autres éléments 3d.
 ## Semaine 2
 ### Résumé des réalisations effectuées
 
+Cette semaine, nous avons dû changer notre plan du projet pour que le projet soit plus réalisable. Donc j'ai dû refaire des moodboards qui démontre mieux le style visuel, un style sonore et commentg l'interaction marche.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
