@@ -46,7 +46,7 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 | Actions du joueur  |Son reliés à L'action |
 | ------------- | ------------- |
-| Marcher à droite à gauche  | *son à décider*  |
+| Déplacement à droite ou  à gauche  | *son à décider*  |
 | Sauter | *son à décider*  |
 
 ### Univers artistique des éléments
