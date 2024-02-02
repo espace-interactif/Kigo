@@ -64,6 +64,10 @@ Sonore
 ![Scénarimage](medias/scenarimage4.jpg)  
 ![Scénarimage](medias/scenarimage5.jpg)
 
+### Cartographie
+
+![Cartographie](/docs/preproduction/medias/plantation_technique.png)
+
 
 
 ## Contenu multimédia à intégrer
