@@ -8,6 +8,7 @@ Démontrer le passage des saisons par un jeu interactif dont les saisons représ
 
 Dans le cadre du cours, notre équipe présente une expérience multimédia interactice. Cette expérience prendra la forme d'un jeu Kigo qui représente les saisons. 
 Le but de cette expérience sera de compléter de 4 niveaux de difficultés allant de facile à très difficile. Les décors représenteront les 4 saisons et dont chacune représentera un niveau ainsi que sa difficulté.
+L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvement de l'interacteur permettant à l'avatar dans le jeu de bouger à droite ou à gauche et aussi de s'accroupir pour esquiver des obstacles qui viennent vers le joueur.
 
 
 ### Intention de départ
@@ -209,8 +210,6 @@ inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambianc
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)
 - Comité Technique et coordination technique (suivi du devis technique)
 - Installation et mise en place de la capture audio-visuelle du projet en temps réel
-- Coordination artistique des médias
-
 - Programmation de la kinect
 
 #### Érick Ouellette 
@@ -225,17 +224,14 @@ inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambianc
 - Créateur artistique Unity
 
 #### Gabriel Clerval
-
-- Coordination artistique des médias
 - Coordination artistique des paysages sonores
 - Installation des équipements dans le grand studio
 
 #### William Rathier Mailly
-
 - Programmation de la kinect
-- Coordination artistique des médias audio-visuelle
-- Coordination artistique auditif
-- Coordination artistique 3D
+- Coordination technique
+
+
 
 ### Moments des rencontres d'équipe
 - Lundi 17:10 (1h après le Scrum)
