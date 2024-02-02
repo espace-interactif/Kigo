@@ -91,7 +91,7 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 
 ## Planification technique d'un prototype
 
-### Plans technique
+### Plan technique
 
 ![Plantation technique](/docs/preproduction/medias/plantation_technique.png)
 
