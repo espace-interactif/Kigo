@@ -127,7 +127,7 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 - Achat de logiciels pour le travail à la maison au besoin
 - Tout les matériaux pour constuire l'espace nécessaire et les différents projets
 
-### échéancier global
+### Échéancier global
 
 #### Dates importantes
 
@@ -145,8 +145,6 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 - Installation de l'équipement dans l'espace physique
 - Programmation et calibrage de la kinect
 - Effectuer des tests avec la kinect
-- Création de médias
-- Création de paysages sonores pour le jeu
 - Vérification et correction de bugs potentiels
 
 #### Érick Ouellette
@@ -154,8 +152,6 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 - Vérification et correction de bugs potentiels
 - Installation de l'équipement dans l'espace physique.
 - Création de médias 3D
-- Programmation Unity
-- Tests et calibrages de l'interactivité dans Unity
 - Création de paysages sonores pour le jeu
 
 #### Nicolas St-Martin
@@ -170,7 +166,6 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 - Installation de l'équipement dans l'espace physique
 - Vérification et correction de bugs potentiels
-- Création de médias 3D
 - Création de paysages sonores pour le jeu
 
 #### William Rathier Mailly
@@ -179,7 +174,7 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 - Installation de l'équipement dans l'espace physique
 - Programmation et calibrage de la kinect
 - Effectuer des tests avec la kinect
-- Création de médias 3D
+- Création de médias 3D (avatar)
 - Vérification et correction de bugs potentiels
 - Tests et calibrages de VCV Rack avec la console audio, l'ordinateur et les hauts-parleurs
 
@@ -191,14 +186,13 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 - Comité Technique et coordination technique (suivi du devis technique)
 - Installation et mise en place de la capture audio-visuelle du projet en temps réel
 - Coordination artistique des médias
-- Coordination artistique des paysages sonores
+
 - Programmation de la kinect
 
 #### Érick Ouellette 
-
-- Programmeur Unity de l'interactivité
+- Coordination artistique des paysages sonores
 - Coordination artistique 3D
-- Créateur artistique Unity
+
 
 #### Nicholas St-Martin
 
