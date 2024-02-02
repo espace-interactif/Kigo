@@ -9,8 +9,6 @@ Démontrer le passage des saisons par un jeu interactif dont les saisons représ
 Dans le cadre du cours, notre équipe présente une expérience multimédia interactice. Cette expérience prendra la forme d'un jeu Kigo qui représente les saisons. 
 Le but de cette expérience sera de compléter de 4 niveaux de difficultés allant de facile à très difficile. Les décors représenteront les 4 saisons et dont chacune représentera un niveau ainsi que sa difficulté.
 
-### Cartographie
-
 
 ### Intention de départ
 
@@ -50,6 +48,7 @@ Sonore
 
 ### Scénarimages
 
+### Cartographie
 ### Schéma de Plantation
 ![Schéma](medias/schemaplantation.png)  
 
@@ -57,7 +56,7 @@ Sonore
 
 - Des paysages différents pour chaque saison.
 - Des sons d'ambiances pour chaque saison
-- Musique (optionnelle)
+- Musique 
 
 ### Inventaire du contenu multimédia
 
