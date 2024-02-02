@@ -14,7 +14,6 @@ L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvemen
 
 > En temps qu'équipe, notre intention de départ était de faire une expérience multimédia interactive par l'entremise d'un jeu interactif. Ce projet est une occasion de démontrer aux professeurs, au public l'étendue des connaissances acquises durant la technique d'Intégration Multimédia et de leurs applications dans le cadre du projet final de la technique.
 
-
 ### Moodboard
 
 Général
@@ -65,8 +64,6 @@ Sonore
 
 ![Cartographie](/docs/preproduction/medias/plantation_technique.png)
 
-
-
 ## Contenu multimédia à intégrer
 
 - Des paysages différents pour chaque saison.
@@ -89,8 +86,8 @@ inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambianc
 ### Espace et ambiance générale du projet
 
 L’espace du projet va ressembler à une sorte de route avec des arbres comme on peut en voir dans des villes comme Miami. Sur cette route, il y aura des obstacles à esquiver. Le joueur s’installera sur une plateforme où il pourra bouger de gauche à droite et s’accroupir. L’ambiance du projet sera engageante et excitante car le jeu testera la capacité du joueur à esquiver des obstacles, ce qui deviendra plus compliqué à chaque niveau complété.
-## Planification technique d'un prototype
 
+## Planification technique d'un prototype
 
 ![](medias/dion_antoine_plan_installation.drawio.png)
 
@@ -168,8 +165,12 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 
 ### Budget prévisionnel
 
-- Achat de logiciels pour le travail à la maison au besoin
-- Tout les matériaux pour constuire l'espace nécessaire et les différents projets
+| Budget prévisionnel       | Quantité(s) | Montant($) |
+| ------------------------- | ----------- | ---------- |
+| Matériaux d'imprimante 3D | 1kg         | 25$        |
+| Dépenses totale                         | 25$        |
+| Budget total                            | 400$       |
+| Budget restant                          | 375$       |
 
 ### Échéancier global
 
