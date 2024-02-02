@@ -6,7 +6,8 @@ Démontrer le passage des saisons par un jeu interactif dont les saisons représ
 
 ### Synopsis
 
-Dans le cadre du cours, notre équipe présente une expérience multimédia interactice. Cette expérience prendra la forme d'un jeu Kigo qui représente les saisons japonaise . Le but de cette expérience sera de compléter de 4 niveaux de difficultés allant de facile à très difficile. Les décors représenteront les 4 saisons de Kigo et dont chacune représentera un niveau ainsi que sa difficulté.
+Dans le cadre du cours, notre équipe présente une expérience multimédia interactice. Cette expérience prendra la forme d'un jeu Kigo qui représente les saisons. 
+Le but de cette expérience sera de compléter de 4 niveaux de difficultés allant de facile à très difficile. Les décors représenteront les 4 saisons et dont chacune représentera un niveau ainsi que sa difficulté.
 
 ### Cartographie
 
@@ -25,6 +26,16 @@ Général
 Visuel artistique
 
 ![Visuel](medias/Group1.png)
+
+Sonore
+
+[Ambiance niveau printemps](https://youtu.be/UZ9uyQI3pF0?si=OWN5xIRoZ-BNiwXK&t=1264)
+
+[Ambiance niveau été](https://youtu.be/kW10Xx_Hdto?si=54hkybJjyr6JJFpp&t=2894)
+
+[Ambiance niveau automne](https://youtu.be/aT66uumZ0Zo?si=jfz0KRhrSTcqDlvQ)
+
+[Ambiance niveau hiver](https://youtu.be/5_NgwbEs4JE?si=0kg9LaFzikDOZQNH&t=9474)
 
 ### Références
 
