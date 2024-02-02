@@ -227,7 +227,7 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 
 #### Érick Ouellette
 
-- Coordination artistique des paysages sonores
+- Coordination artistique des paysages visuel
 - Coordination artistique 3D
 
 #### Nicholas St-Martin
