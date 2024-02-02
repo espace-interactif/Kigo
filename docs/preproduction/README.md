@@ -92,7 +92,7 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 ## Planification technique d'un prototype
 
 
-![](./dion_antoine_plan_installation.drawio.png)
+![](medias/dion_antoine_plan_installation.drawio.png)
 
 ### Plans technique
 
