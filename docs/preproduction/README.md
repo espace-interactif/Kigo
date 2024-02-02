@@ -6,25 +6,23 @@ Démontrer le passage des saisons par un jeu interactif dont les saisons représ
 
 ### Synopsis
 
-Dans le cadre du cours, notre équipe présente une expérience multimédia interactice. Cette expérience prendra la forme d'un jeu Kigo qui représente les saisons. 
+Dans le cadre du cours, notre équipe présente une expérience multimédia interactice. Cette expérience prendra la forme d'un jeu Kigo qui représente les saisons.
 Le but de cette expérience sera de compléter de 4 niveaux de difficultés allant de facile à très difficile. Les décors représenteront les 4 saisons et dont chacune représentera un niveau ainsi que sa difficulté.
 L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvement de l'interacteur permettant à l'avatar dans le jeu de bouger à droite ou à gauche et aussi de s'accroupir pour esquiver des obstacles qui viennent vers le joueur.
-
 
 ### Intention de départ
 
 > En temps qu'équipe, notre intention de départ était de faire une expérience multimédia interactive par l'entremise d'un jeu interactif. Ce projet est une occasion de démontrer aux professeurs, au public l'étendue des connaissances acquises durant la technique d'Intégration Multimédia et de leurs applications dans le cadre du projet final de la technique.
 
-
-
 ### Cartographie
 
+![Cartographie](/docs/preproduction/medias/plantation_technique.png)
 
 ### Moodboard
 
 Général
 
-![Inspiration](medias/moodboard-kigo.png)  
+![Inspiration](medias/moodboard-kigo.png)
 
 Visuel artistique
 
@@ -56,33 +54,32 @@ Sonore
 
 ![Kinect](medias/kinect.png)
 
-
 ### Documents
 
 ### Scénarimages
 
 ### Schéma de Plantation
-![Schéma](medias/schemaplantation.png)  
+
+![Schéma](medias/schemaplantation.png)
 
 ## Contenu multimédia à intégrer
 
 - Des paysages différents pour chaque saison.
 - Des sons d'ambiances pour chaque saison
-- Musique 
+- Musique
 
 ### Inventaire du contenu multimédia
 
-| Actions du joueur  |Son reliés à L'action |
-| ------------- | ------------- |
-| Déplacement à droite ou  à gauche  | *son à décider*  |
-| Accroupir | *son à décider*  |
+| Actions du joueur                | Son reliés à L'action |
+| -------------------------------- | --------------------- |
+| Déplacement à droite ou à gauche | _son à décider_       |
+| Accroupir                        | _son à décider_       |
 
 ### Univers artistique des éléments
 
-L’esthétique visuelle du projet sera inspiré des arts néons rétro des années 80 et quand chaque saison change, l’apparence visuelle changera pour s’ajuster 
-à la saison que ce soient les arbres et ses feuilles qui changent de couleurs ou encore les feuilles qui tombent, etc. Chaque niveau aura sa propre musique 
+L’esthétique visuelle du projet sera inspiré des arts néons rétro des années 80 et quand chaque saison change, l’apparence visuelle changera pour s’ajuster
+à la saison que ce soient les arbres et ses feuilles qui changent de couleurs ou encore les feuilles qui tombent, etc. Chaque niveau aura sa propre musique
 inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambiances différents.
-
 
 ## Planification technique d'un prototype
 
@@ -219,10 +216,10 @@ inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambianc
 - Installation et mise en place de la capture audio-visuelle du projet en temps réel
 - Programmation de la kinect
 
-#### Érick Ouellette 
+#### Érick Ouellette
+
 - Coordination artistique des paysages sonores
 - Coordination artistique 3D
-
 
 #### Nicholas St-Martin
 
@@ -231,19 +228,19 @@ inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambianc
 - Créateur artistique Unity
 
 #### Gabriel Clerval
+
 - Coordination artistique des paysages sonores
 - Installation des équipements dans le grand studio
 
 #### William Rathier Mailly
+
 - Programmation de la kinect
 - Coordination technique
 
-
-
 ### Moments des rencontres d'équipe
+
 - Lundi 17:10 (1h après le Scrum)
 - Mardi 15:20 (1h après la rencontre avec les professeurs)
 - Mercredi 14:25 (1h après la rencontre avec les professeurs)
 - Jeudi 12:35 (1h après la rencontre avec les professeurs)
 - Vendredi ( Rencontre a l'école ou via teams durant le travail autonome)
-
