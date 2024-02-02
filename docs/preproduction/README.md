@@ -88,9 +88,9 @@ inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambianc
 
 ### Espace et ambiance générale du projet
 
+L’espace du projet va ressembler à une sorte de route avec des arbres comme on peut en voir dans des villes comme Miami. Sur cette route, il y aura des obstacles à esquiver. Le joueur s’installera sur une plateforme où il pourra bouger de gauche à droite et s’accroupir. L’ambiance du projet sera engageante et excitante car le jeu testera la capacité du joueur à esquiver des obstacles, ce qui deviendra plus compliqué à chaque niveau complété.
 ## Planification technique d'un prototype
 
-L’espace du projet va ressembler à une sorte de route avec des arbres comme on peut en voir dans des villes comme Miami. Sur cette route, il y aura des obstacles à esquiver. Le joueur s’installera sur une plateforme où il pourra bouger de gauche à droite et s’accroupir. L’ambiance du projet sera engageante et excitante car le jeu testera la capacité du joueur à esquiver des obstacles, ce qui deviendra plus compliqué à chaque niveau complété.
 
 ![](./dion_antoine_plan_installation.drawio.png)
 
