@@ -24,7 +24,7 @@ L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvemen
 
 Général
 
-![Inspiration](medias/moodboard-kigo.png)
+
 
 Visuel artistique
 
