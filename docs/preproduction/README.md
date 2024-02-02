@@ -64,9 +64,7 @@ Sonore
 ![Scénarimage](medias/scenarimage4.jpg)  
 ![Scénarimage](medias/scenarimage5.jpg)
 
-### Schéma de Plantation
 
-![Schéma](medias/schemaplantation.png)
 
 ## Contenu multimédia à intégrer
 
