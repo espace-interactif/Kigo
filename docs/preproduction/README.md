@@ -24,7 +24,7 @@ Général
 
 Visuel artistique
 
-![Visuel](medias/)
+![Visuel](medias/Group1.png)
 
 ### Références
 
