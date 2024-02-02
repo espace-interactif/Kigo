@@ -1,5 +1,7 @@
 # Preproduction espace interactif
 
+![Logo](medias/MicrosoftTeams-image.png)
+
 ## Intention du concept
 
 Démontrer le passage des saisons par un jeu interactif dont les saisons représentent un niveau de difficulté graduelle.
