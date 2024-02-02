@@ -18,7 +18,13 @@ Dans le cadre du cours, notre équipe présente une expérience multimédia inte
 
 ### Moodboard
 
+Général
+
 ![Inspiration](medias/moodboard-kigo.png)  
+
+Visuel artistique
+
+![Visuel](medias/)
 
 ### Références
 
