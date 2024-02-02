@@ -1,4 +1,4 @@
-# Préproduction espace interactif
+# Préproduction Kigo
 
 ![Logo](medias/MicrosoftTeams-image.png)
 
