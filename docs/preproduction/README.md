@@ -16,6 +16,11 @@ L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvemen
 
 > En temps qu'équipe, notre intention de départ était de faire une expérience multimédia interactive par l'entremise d'un jeu interactif. Ce projet est une occasion de démontrer aux professeurs, au public l'étendue des connaissances acquises durant la technique d'Intégration Multimédia et de leurs applications dans le cadre du projet final de la technique.
 
+
+### Cartographie
+
+![Cartographie](/docs/preproduction/medias/plantation_technique.png)
+
 ### Moodboard
 
 Général
@@ -62,9 +67,7 @@ Sonore
 ![Scénarimage](medias/scenarimage4.jpg)  
 ![Scénarimage](medias/scenarimage5.jpg)
 
-### Cartographie
 
-![Cartographie](/docs/preproduction/medias/plantation_technique.png)
 
 ## Contenu multimédia à intégrer
 
