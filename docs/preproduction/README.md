@@ -170,9 +170,9 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 | Budget prévisionnel       | Quantité(s) | Montant($) |
 | ------------------------- | ----------- | ---------- |
 | Matériaux d'imprimante 3D | 1kg         | 25$        |
-| Dépenses totale                         | 25$        |
-| Budget total                            | 400$       |
-| Budget restant                          | 375$       |
+| **Dépenses totale**       |             | 25$        |
+| **Budget total**          |             | 400$       |
+| **Budget restant**        |             | 375$       |
 
 ### Échéancier global
 
