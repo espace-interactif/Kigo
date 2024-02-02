@@ -14,9 +14,6 @@ L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvemen
 
 > En temps qu'équipe, notre intention de départ était de faire une expérience multimédia interactive par l'entremise d'un jeu interactif. Ce projet est une occasion de démontrer aux professeurs, au public l'étendue des connaissances acquises durant la technique d'Intégration Multimédia et de leurs applications dans le cadre du projet final de la technique.
 
-### Cartographie
-
-![Cartographie](/docs/preproduction/medias/plantation_technique.png)
 
 ### Moodboard
 
@@ -64,9 +61,11 @@ Sonore
 ![Scénarimage](medias/scenarimage4.jpg)  
 ![Scénarimage](medias/scenarimage5.jpg)
 
-### Schéma de Plantation
+### Cartographie
 
-![Schéma](medias/schemaplantation.png)
+![Cartographie](/docs/preproduction/medias/plantation_technique.png)
+
+
 
 ## Contenu multimédia à intégrer
 
@@ -87,9 +86,13 @@ L’esthétique visuelle du projet sera inspiré des arts néons rétro des ann�
 à la saison que ce soient les arbres et ses feuilles qui changent de couleurs ou encore les feuilles qui tombent, etc. Chaque niveau aura sa propre musique
 inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambiances différents.
 
+### Espace et ambiance générale du projet
+
+L’espace du projet va ressembler à une sorte de route avec des arbres comme on peut en voir dans des villes comme Miami. Sur cette route, il y aura des obstacles à esquiver. Le joueur s’installera sur une plateforme où il pourra bouger de gauche à droite et s’accroupir. L’ambiance du projet sera engageante et excitante car le jeu testera la capacité du joueur à esquiver des obstacles, ce qui deviendra plus compliqué à chaque niveau complété.
 ## Planification technique d'un prototype
 
-![](./dion_antoine_plan_installation.drawio.png)
+
+![](medias/dion_antoine_plan_installation.drawio.png)
 
 ### Plans technique
 
@@ -230,7 +233,7 @@ inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambianc
 
 #### Érick Ouellette
 
-- Coordination artistique des paysages sonores
+- Coordination artistique des paysages visuel
 - Coordination artistique 3D
 
 #### Nicholas St-Martin
