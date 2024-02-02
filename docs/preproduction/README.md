@@ -35,6 +35,8 @@ Sonore
 
 [Ambiance niveau hiver](https://youtu.be/5_NgwbEs4JE?si=0kg9LaFzikDOZQNH&t=9474)
 
+[Musique des niveaux](https://youtu.be/k3WkJq478To?si=0_RnxrU8ys0iMwdl&t=5895)
+
 ### Références
 
 [Références|Fit it sur steam](https://store.steampowered.com/app/951450/Fit_It/)
@@ -63,9 +65,13 @@ Sonore
 | Actions du joueur  |Son reliés à L'action |
 | ------------- | ------------- |
 | Déplacement à droite ou  à gauche  | *son à décider*  |
-| Sauter | *son à décider*  |
+| Accroupir | *son à décider*  |
 
 ### Univers artistique des éléments
+
+L’esthétique visuelle du projet sera inspiré des arts néons rétro des années 80 et quand chaque saison change, l’apparence visuelle changera pour s’ajuster 
+à la saison que ce soient les arbres et ses feuilles qui changent de couleurs ou encore les feuilles qui tombent, etc. Chaque niveau aura sa propre musique 
+inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambiances différents.
 
 
 ## Planification technique d'un prototype
