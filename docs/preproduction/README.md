@@ -22,7 +22,7 @@ L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvemen
 
 ### Moodboard
 
-Général
+
 
 
 
