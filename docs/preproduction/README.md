@@ -93,36 +93,42 @@ inspirée du genre synthwave qui sera bien sûr accompagné des sons d’ambianc
 
 ### Plans technique
 
-### Matériaux requis
+#### Plantation
 
-- Kinect V2
-- Projecteur
-- Ordinateur portable Windows
-- Extension électrique
-- Fils Ethernet (Pour s'assurer d'une bonne connexion internet)
-- Tapis de protection
-- Litepanel
-- Safety en métal
-- Sac de sables de 15 lbs
-- Superclamp Manfrotto 035
-- HDMI Extender
-- Powerbar
-- Chariot Ordinateur
-- Câbles HDMI
-- Console de son
-- Câble d’alimentation pour ordinateur
-- Câble d’alimentation pour console de son
-- Câble d’alimentation pour projecteur
-- Câble displayPort
-- Câble XLR
-- Powercon
-- Extensions fil électrique
-- Magic arm
-- Genelec 8010APM
+![Plantation technique](/docs/preproduction/medias/plantation_technique.png)
+
+### Équipements requis
+
+- Audio
+  - 1 Console de sons
+  - 1 Carte de sons
+  - 2 Haut-parleurs Genelec 8010APM
+  - 4 Câbles XLR (M->F) (Longueur minimale estimée entre 4-6 mètres)
+- Vidéo
+  - 1 Projecteur
+  - 1 Kinect V2
+  - 1 sytème d'acrochage pour le projecteur
+- Électricité
+  - 2 Cordon IEC (pour alimenter les haut-parleurs)
+  - 2 Multiprise
+  - 2 Extensions de fils électrique (Longueur minimale estimée entre 6-8 mètres)
+  - 1 Câble d’alimentation pour ordinateur
+  - 1 Câble d’alimentation pour console de son
+- Réseau
+  - 2 Fils Ethernet (longueur minimale estimée entre 4-8 mètres)
+  - 1 HDMI Extender
+  - 2 Câbles HDMI
+  - Câble displayPort
+- Ordinateur
+  - 1 Chariot Ordinateur
+- Autres
+  - Tapis de protection
+  - 3 Safety en métal
+  - 1 Powercon
+  - 1 Magic Arm
 
 ### Logiciels requis
 
-- [Max](https://cycling74.com/downloads)
 - [Kinect studio](https://github.com/Kinect/Docs/blob/master/Kinect4Windows2.0/k4w2/NUI_Tools/Kinect_Studio.md)
 - [Unity](https://unity.com/fr)
 - [Touch designer](https://derivative.ca/) (Si Unity ne marche pas)
