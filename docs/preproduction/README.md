@@ -1,4 +1,6 @@
-# Preproduction espace interactif
+# Préproduction espace interactif
+
+![Logo](medias/MicrosoftTeams-image.png)
 
 ## Intention du concept
 
