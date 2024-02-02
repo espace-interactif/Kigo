@@ -45,6 +45,8 @@ Sonore
 
 [Références|Resident Evil 4 Target Practice inspiration](https://www.youtube.com/watch?v=dxOleXVO4lw&t=44s)
 
+![Kinect](medias/kinect.png)
+
 
 ### Documents
 
