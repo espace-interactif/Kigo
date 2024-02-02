@@ -16,6 +16,10 @@ L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvemen
 > En temps qu'équipe, notre intention de départ était de faire une expérience multimédia interactive par l'entremise d'un jeu interactif. Ce projet est une occasion de démontrer aux professeurs, au public l'étendue des connaissances acquises durant la technique d'Intégration Multimédia et de leurs applications dans le cadre du projet final de la technique.
 
 
+
+### Cartographie
+
+
 ### Moodboard
 
 Général
@@ -46,6 +50,10 @@ Sonore
 
 [Références|Resident Evil 4 Target Practice inspiration](https://www.youtube.com/watch?v=dxOleXVO4lw&t=44s)
 
+[Références|Guitar zero](https://youtu.be/uMLy1j_6mRQ?si=Yb_qxuwDbr7u-92C)
+
+[Références|Wii fit](https://youtu.be/KFbbjLdmpBQ?si=N8hjS4ezmJU2rfhU)
+
 ![Kinect](medias/kinect.png)
 
 
@@ -53,7 +61,6 @@ Sonore
 
 ### Scénarimages
 
-### Cartographie
 ### Schéma de Plantation
 ![Schéma](medias/schemaplantation.png)  
 
