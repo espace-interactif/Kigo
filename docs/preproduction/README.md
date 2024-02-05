@@ -1,7 +1,6 @@
 # Préproduction Kigo
 
 ![Logo](medias/MicrosoftTeams-image.png)
-
 ![Banniere](medias/kigo-banniere.png)
 
 ## Intention du concept
