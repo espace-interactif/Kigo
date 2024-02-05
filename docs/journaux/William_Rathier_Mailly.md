@@ -68,30 +68,36 @@ Avancer le plus possible le début du projet. Trouver les idées finales et auss
 Pour ma part j'ai réalisé beaucoup de recherche pour la programmation de la kinect. Je n'ai pas encore réaliser de programmation complète, par contre j'ai pour déterminer l'espace du jeu ce qui me permet de pouvoir commencer a faire les test de distance de la kinect. Cette semaine ma permis de beaucoup avancer en terme d'espace de la kinect. Aussi, j'ai pris de l'avance et j'ai modéliser une boite de protection de la kinect il me retsera à l'imprimer.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![protection kinect](medias/will/Case-Kinect.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+J'ai fais une grande partie des tâches qui m'étaient attribués, mais par manque de resources je n'ai pas pus réussir 100% du travail je suis quand même fier de ce que j'ai accompli cette semaine j'ai rattrapé du retard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+rechercher beaucoup plus de ressources que ce soit par moi ou par mes profs qui sont là pour aider.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+je pense que nous sommes encore un peu en reatrd sur l'échéancier, mais par contre nous avons beaucoup avancer comparer a la semaine dernière.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+travailler encore très fort et redoubler d'effort pour être a 0% de reatrd.
 
 ### Défis pour la prochaine semaine
+Finir les test complet de la kinect et commencer un programme.
 
 ---
 
