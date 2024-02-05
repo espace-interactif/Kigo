@@ -24,7 +24,7 @@
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![premier fichier du projet](medias/will/fichier_realisé.PNG)
+![premier fichier du projet](medias/will/fichier_réalisé.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -65,6 +65,7 @@ Avancer le plus possible le début du projet. Trouver les idées finales et auss
 ## Semaine 2
 
 ### Résumé des réalisations effectuées
+Pour ma part j'ai réalisé beaucoup de recherche pour la programmation de la kinect. Je n'ai pas encore réaliser de programmation complète, par contre j'ai pour déterminer l'espace du jeu ce qui me permet de pouvoir commencer a faire les test de distance de la kinect. Cette semaine ma permis de beaucoup avancer en terme d'espace de la kinect. Aussi, j'ai pris de l'avance et j'ai modéliser une boite de protection de la kinect il me retsera à l'imprimer.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
