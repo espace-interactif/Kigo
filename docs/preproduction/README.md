@@ -2,6 +2,8 @@
 
 ![Logo](medias/MicrosoftTeams-image.png)
 
+![Banniere](medias/kigo-banniere.png)
+
 ## Intention du concept
 
 Démontrer le passage des saisons par un jeu interactif dont les saisons représentent un niveau de difficulté graduelle.
