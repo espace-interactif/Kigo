@@ -19,7 +19,7 @@ L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvemen
 
 ### Cartographie
 
-![Cartographie](/docs/preproduction/medias/plantation_technique.png)
+
 
 ### Moodboard
 
@@ -94,7 +94,7 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 
 ### Plan technique
 
-![Plantation technique](/docs/preproduction/medias/plantation_technique.png)
+![Plantation technique](medias/plantation_technique.png)
 
 ### Équipements requis
 
