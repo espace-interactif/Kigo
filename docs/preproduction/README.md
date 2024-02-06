@@ -96,6 +96,10 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 
 ![Plantation technique](medias/plantation_technique.png)
 
+### Schéma de branchements
+
+![Schéma de branchements](/docs/preproduction/medias/schema_branchement.PNG)
+
 ### Équipements requis
 
 - Audio
