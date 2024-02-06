@@ -78,7 +78,7 @@ Pour ma part j'ai réalisé beaucoup de recherche pour la programmation de la ki
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-J'ai fais une grande partie des tâches qui m'étaient attribués, mais par manque de resources je n'ai pas pus réussir 100% du travail je suis quand même fier de ce que j'ai accompli cette semaine j'ai rattrapé du retard.
+J'ai fais une grande partie des tâches qui m'étaient attribués, mais par manque de ressources je n'ai pas pus réussir 100% du travail. Je suis quand même fier de ce que j'ai accompli cette semaine j'ai rattrapé du retard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 rechercher beaucoup plus de ressources que ce soit par moi ou par mes profs qui sont là pour aider.
@@ -91,7 +91,7 @@ rechercher beaucoup plus de ressources que ce soit par moi ou par mes profs qui 
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-je pense que nous sommes encore un peu en reatrd sur l'échéancier, mais par contre nous avons beaucoup avancer comparer a la semaine dernière.
+je pense que nous sommes encore un peu en retard sur l'échéancier, mais par contre nous avons beaucoup avancer comparer a la semaine dernière.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 travailler encore très fort et redoubler d'effort pour être a 0% de reatrd.
