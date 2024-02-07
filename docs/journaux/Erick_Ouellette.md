@@ -58,19 +58,21 @@ Cette semaine, nous avons dû changer notre plan du projet pour que le projet so
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
+![moodboard](../preproduction/medias/Group1.png)
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [x] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous avons malheureusement dû changer nos inspirations visuelles donc j'ai dû refaire un moodboard ce qui m'a empêché de m'avancer dans la modélisation
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais commencer à modéliser quand j'aurai fini d'établir le style visuel
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -86,7 +88,7 @@ Cette semaine, nous avons dû changer notre plan du projet pour que le projet so
 
 
 ### Défis pour la prochaine semaine
-
+Commencer les médias 3d
 
 ---
 ## Semaine 3 
