@@ -121,7 +121,7 @@ Continuer d'apprendre comment le package fonctionne et trouver les sollutions au
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [X] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
