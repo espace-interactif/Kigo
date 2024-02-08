@@ -55,6 +55,7 @@ Commencer le projet et se familiariser à nouveau avec les logiciels requis pour
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+j'ai modifié le document de préproduction avec des nouvelles informations à jour tout en ordonnant le document, j'ai ajoutés des inspirations d'idées de projet et complété mon sprint#2.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -64,11 +65,12 @@ Commencer le projet et se familiariser à nouveau avec les logiciels requis pour
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+j'ai fait tout ce que j'avais à faire dans les temps prévus
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -77,7 +79,7 @@ Commencer le projet et se familiariser à nouveau avec les logiciels requis pour
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -88,6 +90,7 @@ Commencer le projet et se familiariser à nouveau avec les logiciels requis pour
 
 
 ### Défis pour la prochaine semaine
+Commencer les médias sonores pour le projet et aider mon équipe pour faciliter la tache pendant nos semaines chargés avec n'importe quelle aide possible.
 
 
 ---
