@@ -104,11 +104,11 @@ Sonore
 
 ### Scénarimages
 
-![Scénarimage](medias/scenarimage1.jpg)
-![Scénarimage](medias/scenarimage2.jpg)  
-![Scénarimage](medias/scenarimage3.jpg)  
-![Scénarimage](medias/scenarimage4.jpg)  
-![Scénarimage](medias/scenarimage5.jpg)
+![Scénarimage](medias/scenarimagekigo1.png)
+![Scénarimage](medias/scenarimagekigo2.png)  
+![Scénarimage](medias/scenarimagekigo3.png)  
+![Scénarimage](medias/scenarimagekigo4.png)  
+![Scénarimage](medias/scenarimagekigo5.png)
 
 ## Contenu multimédia à intégrer
 
