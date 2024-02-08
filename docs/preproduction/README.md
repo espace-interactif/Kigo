@@ -77,6 +77,8 @@ Sonore
 - Des paysages différents pour chaque saison.
 - Des sons d'ambiances pour chaque saison
 - Musique
+- Des effets sonores 
+  
 
 ### Inventaire du contenu multimédia
 
