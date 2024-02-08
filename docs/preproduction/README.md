@@ -23,42 +23,34 @@ L'interaction de ce jeu est possible grâce à la kinect qui captera le mouvemen
 Kigo est un projet multimédia interactif où l’interacteur doit esquiver des obstacles virtuels qui se rapproche vers lui dans une thématique des quatre saisons de l’année. L’interacteur doit embarquer sur une plateforme où une Kinect captera ses mouvements. L’avatar du jeu suivra les mouvements de l’interacteur. Les mouvements possibles sont d’aller de gauche à droite et l’accroupissement. L’esthétique du projet sera une projection d’un univers 3d de style néon rétro, qui ressemblera à une route où les obstacles s’avancent vers le joueur. Il y aura des arbres des deux côtés de la route et ceux-ci vont changer à chaque niveau puisque ces niveaux sont basés chacun sur une saison différente. Une musique synthwave jouera pour chaque niveau et sera accompagnée d’ambiances et des bruitages semblables à leur saisons. Le temps de cette expérience est démontré par le fait que chaque niveau se passe dans une différente saison, ce qui fait passer une année. Cette expérience a pour but d’amener de faire ressentir à l’interacteur, de l’engagement et de la détermination pour finir ces niveaux qui deviennent de plus en plus difficiles.
 
 ### Tous les verbes disponibles à vos interacteurs
-- Bouger un avatar à gauche
-- Bouger un avatar à droite
-- Bouger un avatar au centre
-- Rester immobile
-- Enjamber de gauche à droite
-- S’accroupir pour éviter les obstacles
-- Éviter les obstacles
-- Toucher le menu de départ du jeu
-- Interagir avec les différentes interactions visuelles du jeu (comme le menu de départ)
+- Bouger
+- S’accroupir
+- Toucher
+- Interagir
 
 ### Tous les objets sur lesquels chaque verbe peut agir et comment ils le font
-- Le menu de départ **(Interagir)**
-  - L’interacteur utilise l’interactivité programmée dans Unity pour pouvoir cliquer sur le bouton : Commencer et débuter l’expérience du jeu.
-- Le menu de victoire pour revenir au menu de départ **(Interagir)**
-  - L’interacteur utilise l’interactivité programmée dans Unity pour pouvoir après sa victoire cliquer sur le bouton : Recommencer et revenir au menu départ pour réinitialiser le jeu.
-- Le menu de défaite pour revenir au menu de départ **(Interagir)**
-  - L’interacteur utilise l’interactivité programmée par Unity pour pouvoir après avoir perdu cliquer sur le bouton : Recommencer pour ensuite revenir au menu de départ.
-- L’avatar du joueur ou de la joueuse **(Bouger, Rester, éviter, s’accroupir)**
-  - L’interacteur par l’entremise de l’avatar devra bouger pour éviter les obstacles également il pourra rester immobile sur sa position pour en éviter.
-  - L’interacteur aura également l’occasion par l’entremise de l’avatar d’éviter un obstacle en s’accroupissant en passant en dessous de l’obstacle.
-- Les obstacles **(Éviter, s’accroupir)**
-  - L’interacteur par l’entremise de l’avatar pourra éviter les obstacles en se déplaçant de gauche à droite.
-  - L’interacteur pourra également en s’accroupissant éviter les obstacles s’avançant vers lui.
+- Les menus du jeu
+  - Ils pourront toucher avec leur avatar les différents boutons des menus.
+- L’avatar du joueur ou de la joueuse
+  - Ils pourront bouger librement leur avatar dans l'espace du joueur.
+- Les points
+  - Ils pourront acquérir des points en évitant des obstacles ou en s'accroupissant.
+- Les bonus
+  - Les bonus permettront aux interacteurs d'obtenir des avantages temporaires.
 
 ### Actions émergentes que vous aimeriez que vos interacteurs effectuent
-- S’accroupir pour éviter les obstacles si selon la vitesse du niveau ne permet pas à l’interacteur d’éviter en bougeant à gauche, au centre ou à droite.
-- Enjamber de gauche à droite pour éviter plus rapidement les obstacles.
-- La possibilité qu’un second interacteur puisse se joindre de lui-même à l’expérience déjà en cours (avec le premier interacteur).
 - Les participants (s’ils sont deux) pourraient décider d’entrer en compétition l’un contre l’autre pour éviter les obstacles.
 - Ils pourraient décider d’entrer en compétition l’un contre l’autre en essayant de nuire à l’autre pour réduire leur nombre de vies à 0.
+- Les mouvements aléatoires des obstacles forcerait les participants à réagir rapidement face à leurs fréquences imprévisible d'apparition.
+- L'ajout d'un système de pointage viendrait créer un esprit de compétition et de compairason entre les participants de l'expérience.
+- L'ajout de quantités variables de points selon l'emplacement de l'obstacle pousserait les participants à adopter des stratégies différentes pour obtenir le plus de points possibles.
+- L'ajout potentiel de bonus avec l'ajout des points obligerait les participants à faire des choix et/ou revoir leur stratégie par rapport au jeu.
 
 ### Toutes les façons que les interacteurs peuvent faire progresser l’expérience 
-- L’interacteur pourrait faire progresser l’expérience en donnant des commentaires constructifs aux créateurs sur ce qui marche bien et sur ce qui pourraient être améliorés.
-- Le ou les interacteurs pourrait faire progresser l’expérience en réussissant tous les niveaux forçant ainsi les créateurs à imaginer de nouveaux parcours ou à modifier les chemins aléatoires des obstacles.
-- Les interacteurs pourraient faire des commentaires pouvant mener à l’amélioration visuelle du projet.
-- Les interacteurs pourraient faire des commentaires pouvant contribuer à peaufiner les paysages sonores du projet.  
+- Le participant pourrait adopter une stratégie privilégiant l'acquisition du plus de points.
+- Le participant pourrait adopter une stratégie privilégiant l'acquisition de points en se donnant un handicap.
+- Le participant pourrait adopter une stratégie privilégiant l'acquisition de points et l'acquisition de bonus temporaires.
+- Le participant pourrait adopter une stratégie privilégiant l'acquisition de points, mais seuelement en passant en dessous des obstacles.
 
 ### Cartographie
 ![Cartographie](medias/cartographie.png)
