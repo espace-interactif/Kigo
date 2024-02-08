@@ -17,7 +17,7 @@
 
 ## Semaine 2
 Notre équipe a trouver le thèmes principal du projet suite à de nombreuses discussion. Nous avons défini le thème du projet qui est le rétro néon.
-![thème](.../medias/moodboard.png)
+![thème](medias/moodboard.png)
 
 ## Semaine 1
 Notre équipe a travaillé à finaliser la préproduction, car notre projet a beaucoup changé.
