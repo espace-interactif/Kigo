@@ -104,33 +104,33 @@ Finir les test complet de la kinect et commencer un programme.
 ## Semaine 3
 
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai continué à faire de la recherche pour trouver le bon package pour intégrer la kinect vers le logiciel unity. J'ai enfin trouvé un package qui fonctionne donc j'ai les données d'un squellet capter par la kinect dans unity ce qui me rends bien fier.
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+J'ai réussi enfin a livrer un squellete 3D dans unity, mais je me satisfais pas encore, car je n'ai pas encore fini a 100% l'histoire de l'avatar.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Continuer d'apprendre comment le package fonctionne et trouver les sollutions aux futurs problèmes.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Il y a quelque écarts du au retard que j'avais pris avec l'ancien package qui était trop vieux pour la version de unity que j'avais en ma possession.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Redoubler d'effort pour que je puisse livrer un avatar qui fonctionne bien a mon collègue.
 ### Défis pour la prochaine semaine
-
+Livrer un avatr 3D a mon collègue.
 ---
 
 ## Semaine 4
