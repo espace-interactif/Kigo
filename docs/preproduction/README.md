@@ -50,7 +50,7 @@ Kigo est un projet multimédia interactif où l’interacteur doit esquiver des 
 - Le participant pourrait adopter une stratégie privilégiant l'acquisition du plus de points.
 - Le participant pourrait adopter une stratégie privilégiant l'acquisition de points en se donnant un handicap.
 - Le participant pourrait adopter une stratégie privilégiant l'acquisition de points et l'acquisition de bonus temporaires.
-- Le participant pourrait adopter une stratégie privilégiant l'acquisition de points, mais seuelement en passant en dessous des obstacles.
+- Le participant pourrait adopter une stratégie privilégiant l'acquisition de points, mais seulement en passant en dessous des obstacles.
 
 ### Cartographie
 ![Cartographie](medias/cartographie.png)
