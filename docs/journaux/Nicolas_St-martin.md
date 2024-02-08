@@ -54,7 +54,8 @@ Terminer la préproduction à 100%.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+Conception d'un logo pour notre projet Kigo.
+Réalisation d'un prototype fonctionnel de notre jeux.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -63,19 +64,19 @@ Terminer la préproduction à 100%.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ les protorype fonctionne bien mais il peut encore etre ameliorer pour rendre l'experience encore meilleur.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -87,7 +88,7 @@ Terminer la préproduction à 100%.
 
 
 ### Défis pour la prochaine semaine
-
+ameliorer le proptotype et faire des essais avec la kinect
 
 ---
 ## Semaine 3 
