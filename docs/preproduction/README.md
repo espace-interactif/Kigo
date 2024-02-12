@@ -99,18 +99,25 @@ Sonore
 ![Scénarimage](medias/scenarimagekigo1.png)
 
 - Voici la scène lorsqu'il n'y à aucun participant, le projecteur diffuse le logo de Kigo en boucle en attendant que le capteur kinect capte un interacteur dans sa vision. Il y à aussi un terrain prédéterminé pour l'utilisateur là ou il devra se placer pour commencer le début de la partie.
-![Scénarimage](medias/kigoscenarimage2.png) 
+
+
+![Scénarimage](medias/scenarimagekigo2.png) 
 
 - Lorsqu'un joueur arrive sur le terrain de jeu, la partie commence et la scène change pour l'interface de jeu Kigo, l'utilisateur aura donc le choix entre plusieurs options avant de commencer le jeu. Il y aura aussi l'avatar kinect pouvant reproduire ses mouvements
+
+
 ![Scénarimage](medias/scenarimagekigo3.png)
 
 - Lorsque le joueur sort de la terrain de jeu, la partie se met en pause en attendant que le participant revient dans la zone
-![Scénarimage](medias/kigoscenarimage4.png) 
+
+![Scénarimage](kigoscenarimage3.png) 
 
 - Lors de la partie les obstacles apparaissent et s'avancent vers l'avatar de l'utilisateur.L'apparance des obstacles changent selon le niveau.Le but du jeu est que le joueur  se déplace le plus vite possible à la zone où il est protégé des obstacles.L'orsqu'il se déplace dans le terrain de jeu, son avatar suit ses mouvements
-![Scénarimage](medias/kigoscenarimage3.png)
+
+![Scénarimage](kigoscenarimage4.png)
 
 - Le joueur à trois vies, si un obstacle le touche pendant son déplacement, il perd une vie
+
 ![Scénarimage](medias/kigoscenarimage4.png)
 - Après avoir perdu les trois vies, il y aura une scène de défaite du joueur, si le joueur a toujours des vies le jeu continue avec la difficulté qui augmente. Dans le fond le jeu n'a pas de fin. 
 
