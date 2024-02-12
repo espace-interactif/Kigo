@@ -108,10 +108,10 @@ Sonore
 ![Scénarimage](medias/kigoscenarimage4.png) 
 
 - Lors de la partie les obstacles apparaissent et s'avancent vers l'avatar de l'utilisateur.L'apparance des obstacles changent selon le niveau.Le but du jeu est que le joueur  se déplace le plus vite possible à la zone où il est protégé des obstacles.L'orsqu'il se déplace dans le terrain de jeu, son avatar suit ses mouvements
-![Scénarimage](medias/scenarimagekigo5.png)
+![Scénarimage](medias/scenarimagekigo3.png)
 
 - Le joueur à trois vies, si un obstacle le touche pendant son déplacement, il perd une vie
-![Scénarimage](medias/scenarimagekigo6.png)
+![Scénarimage](medias/scenarimagekigo4.png)
 - Après avoir perdu les trois vies, il y aura une scène de défaite du joueur, si le joueur a toujours des vies le jeu continue avec la difficulté qui augmente. Dans le fond le jeu n'a pas de fin. 
 
 ## Contenu multimédia à intégrer
