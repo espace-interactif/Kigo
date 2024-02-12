@@ -105,7 +105,7 @@ Sonore
 ![Scénarimage](medias/scenarimagekigo3.png)
 
 - Lorsque le joueur sort de la terrain de jeu, la partie se met en pause en attendant que le participant revient dans la zone
-![Scénarimage](medias/scenarimagekigo4.png) 
+![Scénarimage](medias/kigoscenarimage4.png) 
 
 - Lors de la partie les obstacles apparaissent et s'avancent vers l'avatar de l'utilisateur.L'apparance des obstacles changent selon le niveau.Le but du jeu est que le joueur  se déplace le plus vite possible à la zone où il est protégé des obstacles.L'orsqu'il se déplace dans le terrain de jeu, son avatar suit ses mouvements
 ![Scénarimage](medias/scenarimagekigo5.png)
