@@ -99,7 +99,7 @@ Sonore
 ![Scénarimage](medias/scenarimagekigo1.png)
 
 - Voici la scène lorsqu'il n'y à aucun participant, le projecteur diffuse le logo de Kigo en boucle en attendant que le capteur kinect capte un interacteur dans sa vision. Il y à aussi un terrain prédéterminé pour l'utilisateur là ou il devra se placer pour commencer le début de la partie.
-![Scénarimage](medias/scenarimagekigo2.png) 
+![Scénarimage](medias/kigoscenarimage2.png) 
 
 - Lorsqu'un joueur arrive sur le terrain de jeu, la partie commence et la scène change pour l'interface de jeu Kigo, l'utilisateur aura donc le choix entre plusieurs options avant de commencer le jeu. Il y aura aussi l'avatar kinect pouvant reproduire ses mouvements
 ![Scénarimage](medias/scenarimagekigo3.png)
