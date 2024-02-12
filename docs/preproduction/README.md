@@ -110,7 +110,7 @@ Sonore
 - Lors de la partie les obstacles apparaissent et s'avancent vers l'avatar de l'utilisateur.L'apparance des obstacles changent selon le niveau.Le but du jeu est que le joueur  se déplace le plus vite possible à la zone où il est protégé des obstacles.L'orsqu'il se déplace dans le terrain de jeu, son avatar suit ses mouvements
 ![Scénarimage](medias/scenarimagekigo5.png)
 
--Le joueur à trois vies, si un obstacle le touche pendant son déplacement, il perd une vie
+- Le joueur à trois vies, si un obstacle le touche pendant son déplacement, il perd une vie
 
 ## Contenu multimédia à intégrer
 
