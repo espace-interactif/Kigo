@@ -111,6 +111,7 @@ Sonore
 ![Scénarimage](medias/scenarimagekigo5.png)
 
 - Le joueur à trois vies, si un obstacle le touche pendant son déplacement, il perd une vie
+![Scénarimage](medias/scenarimagekigo6.png)
 
 ## Contenu multimédia à intégrer
 
