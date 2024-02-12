@@ -112,7 +112,7 @@ Sonore
 
 - Le joueur à trois vies, si un obstacle le touche pendant son déplacement, il perd une vie
 ![Scénarimage](medias/scenarimagekigo6.png)
-- Après avoir perdu les trois vies, il y aura une scène de défaite du joueur
+- Après avoir perdu les trois vies, il y aura une scène de défaite du joueur, si le joueur a toujours des vies le jeu continue avec la difficulté qui augmente. Dans le fond le jeu n'a pas de fin. 
 
 ## Contenu multimédia à intégrer
 
