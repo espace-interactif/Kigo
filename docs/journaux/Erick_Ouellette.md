@@ -18,7 +18,7 @@
 J'ai créé un moodboard pour démontrer l'univers visuel et le style visuel des des modèles 3d.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/Erick/moodboard.png)
+![moodboard](medias/Erick/moodboard.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -98,7 +98,7 @@ Cette semaine j'ai créé le sol en 3d du projet oû les obstacles vont être pl
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![route](medias/Erick/route.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
