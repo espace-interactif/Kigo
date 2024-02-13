@@ -225,14 +225,16 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 
 ### Budget prévisionnel
 
-| Budget prévisionnel                        | Quantité(s) | Montant($) |
-| ------------------------------------------ | ----------- | ---------- |
-| Matériaux d'imprimante 3D                  | 1kg         | 25$        |
-| Un ensemble de rubans adhésifs fluorescent | 18,3 mètres | 44,84$     |
-|                                            | 
-| **Dépenses totale**                        |             | 69,84$     |
-| **Budget total**                           |             | 400$       |
-| **Budget restant**                         |             | 330,16$    |
+| Budget prévisionnel                         | Quantité(s) | Montant($) |
+| ------------------------------------------- | ----------- | ---------- |
+| Matériaux d'imprimante 3D                   | 1kg         | 25$        |
+| Un ensemble de rubans adhésifs fluorescents | 18,3 mètres | 44,84$     |
+|                                             | 
+| **Dépenses totale**                         |             | 69,84$     |
+| **Budget total**                            |             | 400$       |
+| **Budget restant**                          |             | 330,16$    |
+
+[Ensemble de rubans adhésifs fluorescents](https://www.amazon.ca/-/fr/fluorescent-sup%C3%A9rieure-%C3%A9v%C3%A9nements-multifonction-phosphorescent/dp/B01M7ZV24V/ref=sr_1_6?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YYHFLU6SE73T&keywords=tape%2Bfluorescent%2Br%C3%A9actif%2B%C3%A0%2Bla%2Blumi%C3%A8re&qid=1707839182&sprefix=tape%2Bfluorescent%2Br%C3%A9actif%2B%C3%A0%2Bla%2Blumi%C3%A8re%2Caps%2C54&sr=8-6&th=1)
 
 ### Échéancier global
 
