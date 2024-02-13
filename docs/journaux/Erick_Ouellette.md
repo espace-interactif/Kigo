@@ -94,6 +94,7 @@ Commencer les médias 3d
 ## Semaine 3 
 ### Résumé des réalisations effectuées
 
+Cette semaine j'ai créé le sol en 3d du projet oû les obstacles vont être placés et aussi la plateforme de l'avatar.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -102,7 +103,7 @@ Commencer les médias 3d
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
