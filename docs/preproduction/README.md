@@ -64,7 +64,7 @@ Kigo est un projet multimédia interactif où l’interacteur doit esquiver des 
 
 Visuel artistique
 
-![Visuel](medias/Group1.png)
+![Visuel](medias/Visuel.png)
 
 Sonore
 
