@@ -136,33 +136,32 @@ Livrer un avatr 3D a mon collègue.
 ## Semaine 4
 
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai découvert la bonne version pour le package utilisé à notre projet. Mon cooéquipier et moi avons réaliser une grande partie de la maquette qui sera présenté lundi. Nous avons effectué des test et nousa vons réglé des bugs.
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+Image de la maquette.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+J'ai fais tout ce que j'avais à faire pour que mon équipe puisse produire une maquette fonctionelle.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il me reste des tests à faire, mais pour une maquette le travail est fait. 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Les écarts sont par rapport aux assets lier direct a notre projet qui devrons être fait dans quelques semaines.
 
 ### Défis pour la prochaine semaine
-
+Aider au assets et continuer les dernieres petites programmation de la kinect (disance de deétection)
 ---
 
 ## Semaine 5
