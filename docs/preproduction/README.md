@@ -338,3 +338,6 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 ## Images du projet
 ![Image de la maquette](medias/Capture_maquette.PNG) 
 - Voila une maquette de l'idée de notre projet, l'avatar doit esquiver les obstacles qui arrivent. 
+
+![Installation](medias/installation.jpg)
+- Antoine est au plafond pour l'installation du projecteur.
