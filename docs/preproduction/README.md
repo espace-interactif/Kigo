@@ -1,7 +1,7 @@
 # Préproduction Kigo
 
-![Logo](medias/MicrosoftTeams-image.png)
-![Banniere](medias/kigo-banniere.png)
+![Logo](medias/logo-kigo.png)
+![Banniere](medias/banniere-kigo.png)
 
 ## Intention du concept
 
@@ -141,6 +141,11 @@ Sonore
 | Compte à rebours | 
 | Esquiver les obstacles                      |
 | Bruit lorsque les obstacles apparaissent | 
+
+## Inspiration des sons
+[Sons inspiration](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/Eld2fcjXAEhBmDJsfvCIT9wBUvEcpuFijtX3mRyLcFBJ6w?e=I9JGxY)
+
+[Sons créé](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/EgQUbqFocVFNo6h2-LQ8FLwBEN8O9gTNXA2a1uFgUKAOwA?e=cwDSsv)
 
 ### Univers artistique des éléments
 
@@ -329,3 +334,10 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 - Mercredi 14:25 (1h après la rencontre avec les professeurs)
 - Jeudi 12:35 (1h après la rencontre avec les professeurs)
 - Vendredi ( Rencontre a l'école ou via teams durant le travail autonome)
+
+## Images du projet
+![Image de la maquette](medias/Capture_maquette.PNG) 
+- Voila une maquette de l'idée de notre projet, l'avatar doit esquiver les obstacles qui arrivent. 
+
+![Installation](medias/installation.jpg)
+- Antoine est au plafond pour l'installation du projecteur.

@@ -65,12 +65,12 @@ j'ai modifié le document de préproduction avec des nouvelles informations à j
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-j'ai fait tout ce que j'avais à faire dans les temps prévus
+j'ai fait tout ce que j'avais à faire dans mon sprint # 2 dans le temps prévu pour  le compléter. 
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -79,7 +79,7 @@ j'ai fait tout ce que j'avais à faire dans les temps prévus
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -96,6 +96,7 @@ Commencer les médias sonores pour le projet et aider mon équipe pour faciliter
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
+Apprentissage de l'application FL Studio pour la création des médias sonores, et première création d'un média sonore pour le projet
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -105,20 +106,22 @@ Commencer les médias sonores pour le projet et aider mon équipe pour faciliter
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+Je commence la création des médias pour notre projet en prenant inspiration du style de vaporwave 
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
+
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -129,10 +132,11 @@ Commencer les médias sonores pour le projet et aider mon équipe pour faciliter
 
 
 ### Défis pour la prochaine semaine
-
+Continuer la création des médias sonores
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
+Création d'autres médias sonores 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -143,19 +147,22 @@ Commencer les médias sonores pour le projet et aider mon équipe pour faciliter
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+Ma concentration est maintenant fixée sur la création des effets sonores à la place de la musique
+
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Commencer directement la création des effets sonores 
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -166,7 +173,7 @@ Commencer les médias sonores pour le projet et aider mon équipe pour faciliter
 
 
 ### Défis pour la prochaine semaine
-
+Finir la création des effets sonores pour Lundi 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées

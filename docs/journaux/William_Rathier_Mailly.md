@@ -107,6 +107,8 @@ Finir les test complet de la kinect et commencer un programme.
 Cette semaine j'ai continué à faire de la recherche pour trouver le bon package pour intégrer la kinect vers le logiciel unity. J'ai enfin trouvé un package qui fonctionne donc j'ai les données d'un squellet capter par la kinect dans unity ce qui me rends bien fier.
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![package de kinect](medias/will/capture_kinect_package.PNG)
+[Page du package](https://assetstore.unity.com/packages/tools/integration/kinect-v2-examples-with-ms-sdk-18708)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
@@ -138,7 +140,9 @@ Livrer un avatr 3D a mon collègue.
 ### Résumé des réalisations effectuées
 Cette semaine j'ai découvert la bonne version pour le package utilisé à notre projet. Mon cooéquipier et moi avons réaliser une grande partie de la maquette qui sera présenté lundi. Nous avons effectué des test et nousa vons réglé des bugs.
 ### Image d'une réalisation dont tu es la ou le plus fier
-Image de la maquette.
+
+![image de la maquette](../preproduction/medias/Capture_maquette.PNG)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [x] Complètement
