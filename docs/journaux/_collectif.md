@@ -15,7 +15,7 @@
 
 ## Semaine 3
 L'équipe a presque finaliser l'installation dans le grand studio. Le projecteur, la kinect et les hauts-parleurs sont en place.
-|[Instalation](../preproduction/medias/installation.jpg)
+![Instalation](../preproduction/medias/installation.jpg)
 ## Semaine 2
 Notre équipe a trouver le thèmes principal du projet suite à de nombreuses discussion. Nous avons défini le thème du projet qui est le rétro néon.
 ![thème](medias/moodboard.png)
