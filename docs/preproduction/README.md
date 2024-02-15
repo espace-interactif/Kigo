@@ -336,4 +336,4 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 - Vendredi ( Rencontre a l'école ou via teams durant le travail autonome)
 
 ## Images du projet
-![Image de la maquette](medias/Capture_maquette.PNG)
+![Image de la maquette](medias/Capture_maquette.PNG) - voila une maquette de l'idée de notre projet, l'avatar doit esquiver les obstacles qui arrivent. 
