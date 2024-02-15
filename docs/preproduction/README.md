@@ -142,6 +142,11 @@ Sonore
 | Esquiver les obstacles                      |
 | Bruit lorsque les obstacles apparaissent | 
 
+## Inspiration des sons
+https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/EvCaajeVgydLvNNJtHpAq4IBc55y9ygIzHsd_pIpqgvNow?e=iafioU
+
+
+
 ### Univers artistique des éléments
 
 L’esthétique visuelle du projet sera inspiré des arts néons rétro des années 80 et quand chaque saison change, l’apparence visuelle changera pour s’ajuster
