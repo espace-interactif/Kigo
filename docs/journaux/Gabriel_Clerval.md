@@ -65,7 +65,7 @@ j'ai modifié le document de préproduction avec des nouvelles informations à j
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -79,7 +79,7 @@ j'ai fait tout ce que j'avais à faire dans mon sprint # 2 dans le temps prévu 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -106,7 +106,7 @@ Apprentissage de l'application FL Studio pour la création des médias sonores, 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -121,7 +121,7 @@ Je commence la création des médias pour notre projet en prenant inspiration du
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
