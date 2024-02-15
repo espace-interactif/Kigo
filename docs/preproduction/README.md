@@ -145,7 +145,7 @@ Sonore
 ## Inspiration des sons
 [Sons créer](https://cmontmorency365-my.sharepoint.com/:f:/r/personal/1952687_cmontmorency_qc_ca/Documents/Kigo%20son/Son_de_musique?csf=1&web=1&e=J8cPzh)
 
-[Inspiration de son]([https://cmontmorency365-my.sharepoint.com/:f:/r/personal/1952687_cmontmorency_qc_ca/Documents/Kigo%20son/effet_sonore(Inspiration)?csf=1&web=1&e=eR9mq8](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/Eld2fcjXAEhBmDJsfvCIT9wBUvEcpuFijtX3mRyLcFBJ6w?e=UL7X4W))
+[Inspiration de son](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/Eld2fcjXAEhBmDJsfvCIT9wBUvEcpuFijtX3mRyLcFBJ6w?e=UL7X4W)
 
 ### Univers artistique des éléments
 
