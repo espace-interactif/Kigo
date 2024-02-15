@@ -143,9 +143,7 @@ Sonore
 | Bruit lorsque les obstacles apparaissent | 
 
 ## Inspiration des sons
-[Sons créer](https://cmontmorency365-my.sharepoint.com/:f:/r/personal/1952687_cmontmorency_qc_ca/Documents/Kigo%20son/Son_de_musique?csf=1&web=1&e=J8cPzh)
-
-[Inspiration de son](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/Eld2fcjXAEhBmDJsfvCIT9wBUvEcpuFijtX3mRyLcFBJ6w?e=UL7X4W)
+[Dossier sons](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/EvCaajeVgydLvNNJtHpAq4IBc55y9ygIzHsd_pIpqgvNow?e=oblDLM)
 
 ### Univers artistique des éléments
 
