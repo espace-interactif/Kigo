@@ -334,3 +334,10 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 - Mercredi 14:25 (1h après la rencontre avec les professeurs)
 - Jeudi 12:35 (1h après la rencontre avec les professeurs)
 - Vendredi ( Rencontre a l'école ou via teams durant le travail autonome)
+
+## Images du projet
+![Image de la maquette](medias/Capture_maquette.PNG) 
+- Voila une maquette de l'idée de notre projet, l'avatar doit esquiver les obstacles qui arrivent. 
+
+![Installation](medias/installation.jpg)
+- Antoine est au plafond pour l'installation du projecteur.
