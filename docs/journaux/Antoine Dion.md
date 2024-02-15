@@ -137,31 +137,45 @@ Le seul écart de mon côté serait que je n'ai pas pu installé le matériel da
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-![troisième fichier du projet](/docs/preproduction/medias/plantation_technique.png)
+![troisième fichier du projet](/docs/journaux/medias/antoine/realisation-03.jpeg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
 
+J'ai installé le matériel dans l'espace physique et j'ai fait le câblage des éléments électroniques du projet.
+Par contre, il me restait un fil XLR à brancher pour le haut-parleur de droite et quand j'ai voulu faire ce dernier branchement l'échelle était occupé pour le reste de la journée.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+M'assurer de tout installer et de faire tous les branchements une seul fois.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+L'échancier a été retardée, car chacun des membres avançaient chez eux les médias qu'il créait et ce qui a fait en sorte que l'on a pris du retard sur les tests à effectuer dans le Grand Studio par rapport aux autres équipes qui eux avaient déjà commencer à faire leurs tests.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Faire prendre conscience de l'urgence d'avancer le projet ensemble et dans le Grand Studio, car sinon le retard sera peut-être trop grand à rattraper d'ici la présentation finale du projet en mars.
+
 ### Défis pour la prochaine semaine
+
+- Brancher le dernier fil XLR du haut-parleur droit
+- Réajuster le câblage suspendu aux tiges de métal du plafond
+- Effectuer des tests pour m'assurer du bon fonctionnement du projecteur
+- Effectuer des tests sonores en faisant jouer de la musique à travers les haut-parleurs
 
 ---
 
