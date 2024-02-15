@@ -132,10 +132,15 @@ Sonore
 
 ### Inventaire du contenu multimédia
 
-| Actions du joueur                | Son reliés à L'action |
-| -------------------------------- | --------------------- |
-| Déplacement à droite ou à gauche | _son à décider_       |
-| Accroupir                        | _son à décider_       |
+|Son          | 
+| -------------------------------- | 
+| Ramasser un point bonus | 
+| Appuyer sur l'interface | 
+| Bruit de pause                       |
+| Bruit lorsque touché par l'obstacle                       |
+| Compte à rebours | 
+| Esquiver les obstacles                      |
+| Bruit lorsque les obstacles apparaissent | 
 
 ### Univers artistique des éléments
 
