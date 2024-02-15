@@ -147,7 +147,7 @@ Création d'autres médias sonores
 
 - [ ] Complètement
 - [ ] Assez
-- [ x] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -162,7 +162,7 @@ Commencer directement la création des effets sonores
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
