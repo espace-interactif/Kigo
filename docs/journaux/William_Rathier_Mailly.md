@@ -138,7 +138,9 @@ Livrer un avatr 3D a mon collègue.
 ### Résumé des réalisations effectuées
 Cette semaine j'ai découvert la bonne version pour le package utilisé à notre projet. Mon cooéquipier et moi avons réaliser une grande partie de la maquette qui sera présenté lundi. Nous avons effectué des test et nousa vons réglé des bugs.
 ### Image d'une réalisation dont tu es la ou le plus fier
-Image de la maquette.
+
+![image de la maquette](../preproduction/medias/Capture_maquette.PNG)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [x] Complètement
