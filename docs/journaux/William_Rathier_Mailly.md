@@ -108,7 +108,7 @@ Cette semaine j'ai continué à faire de la recherche pour trouver le bon packag
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ![package de kinect](medias/will/capture_kinect_package.PNG)
-
+[Page du package](https://assetstore.unity.com/packages/tools/integration/kinect-v2-examples-with-ms-sdk-18708)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
