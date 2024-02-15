@@ -12,7 +12,8 @@
 ## Semaine 5
 
 ## Semaine 4
-
+Le gros de la maquette est fonctionelle prête à être déployé. 
+![Maquette](../preproduction/medias/Capture_maquette.PNG)
 ## Semaine 3
 L'équipe a presque finaliser l'installation dans le grand studio. Le projecteur, la kinect et les hauts-parleurs sont en place.
 ![Instalation](../preproduction/medias/installation.jpg)
