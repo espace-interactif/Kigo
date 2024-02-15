@@ -64,7 +64,7 @@ Kigo est un projet multimédia interactif où l’interacteur doit esquiver des 
 
 Visuel artistique
 
-![Visuel](medias/Group1.png)
+![Visuel](medias/Visuel.png)
 
 Sonore
 
@@ -97,10 +97,30 @@ Sonore
 ### Scénarimages
 
 ![Scénarimage](medias/scenarimagekigo1.png)
-![Scénarimage](medias/scenarimagekigo2.png)  
-![Scénarimage](medias/scenarimagekigo3.png)  
-![Scénarimage](medias/scenarimagekigo4.png)  
-![Scénarimage](medias/scenarimagekigo5.png)
+
+- Voici la scène lorsqu'il n'y à aucun participant, le projecteur diffuse le logo de Kigo en boucle en attendant que le capteur kinect capte un interacteur dans sa vision. Il y à aussi un terrain prédéterminé pour l'utilisateur là ou il devra se placer pour commencer le début de la partie.
+
+
+![Scénarimage](medias/scenarimagekigo2.png) 
+
+- Lorsqu'un joueur arrive sur le terrain de jeu, la partie commence et la scène change pour l'interface de jeu Kigo, l'utilisateur aura donc le choix entre plusieurs options avant de commencer le jeu. Il y aura aussi l'avatar kinect pouvant reproduire ses mouvements
+
+
+![Scénarimage](medias/scenarimagekigo3.png)
+
+- Lorsque le joueur sort de la terrain de jeu, la partie se met en pause en attendant que le participant revient dans la zone
+
+![Scénarimage](medias/kigoscenarimage3.png) 
+
+- Lors de la partie les obstacles apparaissent et s'avancent vers l'avatar de l'utilisateur.L'apparance des obstacles changent selon le niveau.Le but du jeu est que le joueur  se déplace le plus vite possible à la zone où il est protégé des obstacles.L'orsqu'il se déplace dans le terrain de jeu, son avatar suit ses mouvements
+
+![Scénarimage](medias/kigoscenarimage4.png)
+
+- Le joueur à trois vies, si un obstacle le touche pendant son déplacement, il perd une vie
+
+![Scénarimage](medias/kigoscenarimage5.png)
+
+- Après avoir perdu les trois vies, il y aura une scène de défaite du joueur, si le joueur a toujours des vies le jeu continue avec la difficulté qui augmente. Dans le fond le jeu n'a pas de fin il faut atteindre le plus de points possible et avoir le meilleur pointage pour être le premier!
 
 ## Contenu multimédia à intégrer
 
@@ -112,10 +132,20 @@ Sonore
 
 ### Inventaire du contenu multimédia
 
-| Actions du joueur                | Son reliés à L'action |
-| -------------------------------- | --------------------- |
-| Déplacement à droite ou à gauche | _son à décider_       |
-| Accroupir                        | _son à décider_       |
+|Son          | 
+| -------------------------------- | 
+| Ramasser un point bonus | 
+| Appuyer sur l'interface | 
+| Bruit de pause                       |
+| Bruit lorsque touché par l'obstacle                       |
+| Compte à rebours | 
+| Esquiver les obstacles                      |
+| Bruit lorsque les obstacles apparaissent | 
+
+## Inspiration des sons
+[Sons inspiration](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/Eld2fcjXAEhBmDJsfvCIT9wBUvEcpuFijtX3mRyLcFBJ6w?e=I9JGxY)
+
+[Sons créé](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/EgQUbqFocVFNo6h2-LQ8FLwBEN8O9gTNXA2a1uFgUKAOwA?e=cwDSsv)
 
 ### Univers artistique des éléments
 
@@ -205,13 +235,16 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 
 ### Budget prévisionnel
 
-| Budget prévisionnel       | Quantité(s) | Montant($) |
-| ------------------------- | ----------- | ---------- |
-| Matériaux d'imprimante 3D | 1kg         | 25$        |
-|                           |
-| **Dépenses totale**       |             | 25$        |
-| **Budget total**          |             | 400$       |
-| **Budget restant**        |             | 375$       |
+| Budget prévisionnel                         | Quantité(s) | Montant($) |
+| ------------------------------------------- | ----------- | ---------- |
+| Matériaux d'imprimante 3D                   | 1kg         | 25$        |
+| Un ensemble de rubans adhésifs fluorescents | 18,3 mètres | 44,84$     |
+|                                             | 
+| **Dépenses totale**                         |             | 69,84$     |
+| **Budget total**                            |             | 400$       |
+| **Budget restant**                          |             | 330,16$    |
+
+[Ensemble de rubans adhésifs fluorescents](https://www.amazon.ca/-/fr/fluorescent-sup%C3%A9rieure-%C3%A9v%C3%A9nements-multifonction-phosphorescent/dp/B01M7ZV24V/ref=sr_1_6?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YYHFLU6SE73T&keywords=tape%2Bfluorescent%2Br%C3%A9actif%2B%C3%A0%2Bla%2Blumi%C3%A8re&qid=1707839182&sprefix=tape%2Bfluorescent%2Br%C3%A9actif%2B%C3%A0%2Bla%2Blumi%C3%A8re%2Caps%2C54&sr=8-6&th=1)
 
 ### Échéancier global
 
