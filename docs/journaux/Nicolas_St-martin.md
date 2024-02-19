@@ -58,8 +58,8 @@ Conception d'un logo pour notre projet Kigo.
 Réalisation d'un prototype fonctionnel de notre jeux.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![ici est une description de l'image](medias/nicolas/logo-kigo.png)
+![ici est une description de l'image](medias/nicolas/prototype-v1.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -93,21 +93,21 @@ ameliorer le proptotype et faire des essais avec la kinect
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+Amilioration du prototype par l'ajout de fonctionnalitée suplémentaire tel que la génération d'obstacle aléatoire.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/nicolas/prototype-v2.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai réussie a générer de manière aléatoire des obstacle pour les faire avancer et rentrer en collision avec notre joueur.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -115,7 +115,7 @@ ameliorer le proptotype et faire des essais avec la kinect
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -126,7 +126,7 @@ ameliorer le proptotype et faire des essais avec la kinect
 
 
 ### Défis pour la prochaine semaine
-
+Rajouter d'autre fonction dans le jeux comme des bonus et d'autres type d'obstacles.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
