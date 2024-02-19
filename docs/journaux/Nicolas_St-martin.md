@@ -127,6 +127,7 @@ Amilioration du prototype par l'ajout de fonctionnalitée suplémentaire tel que
 
 ### Défis pour la prochaine semaine
 Rajouter d'autre fonction dans le jeux comme des bonus et d'autres type d'obstacles.
+
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
