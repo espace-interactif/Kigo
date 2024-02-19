@@ -165,7 +165,7 @@ J'ai perfectionner le prototype en prevision de la maquette avec different obsta
 
 
 ### Défis pour la prochaine semaine
-Commncer l'intégartion des assets finaux.
+Commencer l'intégration des assets finaux.
 
 ---
 ## Semaine 5
