@@ -131,21 +131,22 @@ Rajouter d'autre fonction dans le jeux comme des bonus et d'autres type d'obstac
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+J'ai réaliser une bannière pour notre site.
+J'ai perfectionner le prototype en prevision de la maquette avec different obstacles et un systeme de pointage.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![ici est une description de l'image](medias/nicolas/banniere-kigo.png)
+![ici est une description de l'image](medias/nicolas/prototype-v3.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'arrive à généré different prefabs selon les probabilité d'apparition que je leur ai donné.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -153,7 +154,7 @@ Rajouter d'autre fonction dans le jeux comme des bonus et d'autres type d'obstac
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -164,7 +165,7 @@ Rajouter d'autre fonction dans le jeux comme des bonus et d'autres type d'obstac
 
 
 ### Défis pour la prochaine semaine
-
+Commncer l'intégartion des assets finaux.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
