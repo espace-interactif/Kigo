@@ -116,7 +116,7 @@ Cette semaine j'ai créé le sol en 3d du projet oû les obstacles vont être pl
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -136,7 +136,7 @@ Cette semaine, j'ai modéliser une porte Torii, qui provient de l'Architecture J
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![torii](medias/Erick/gate.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
