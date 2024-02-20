@@ -141,12 +141,12 @@ Cette semaine, j'ai modéliser une porte Torii, qui provient de l'Architecture J
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai créé assez de médias 3D pour la maquette.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -166,6 +166,7 @@ Cette semaine, j'ai modéliser une porte Torii, qui provient de l'Architecture J
 
 ### Défis pour la prochaine semaine
 
+S'assurer que les médias 3D marchent avec l'univers
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
