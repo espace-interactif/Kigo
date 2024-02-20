@@ -58,7 +58,7 @@ Cette semaine, nous avons dû changer notre plan du projet pour que le projet so
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
-![moodboard](../preproduction/medias/Group1.png)
+![moodboard](../preproduction/medias/Visuel.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
