@@ -132,6 +132,7 @@ Cette semaine j'ai créé le sol en 3d du projet oû les obstacles vont être pl
 ## Semaine 4
 ### Résumé des réalisations effectuées
 
+Cette semaine, j'ai modéliser une porte Torii, qui provient de l'Architecture Japonaise pour apporter du décor et du style au projet. J'ai aussi modéliser des exemples d'obstacles à intégrer dans notre scène Unity.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
