@@ -271,7 +271,7 @@ L’espace du projet va ressembler à une sorte de route avec des arbres comme o
 - Vérification et correction de bugs potentiels
 - Installation de l'équipement dans l'espace physique.
 - Création de médias 3D
-- Création de paysages sonores pour le jeu
+
 
 #### Nicolas St-Martin
 
