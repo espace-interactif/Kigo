@@ -120,7 +120,7 @@ Sonore
 
 ![Scénarimage](medias/kigoscenarimage5.png)
 
-- Après avoir perdu les trois vies, il y aura une scène de défaite du joueur, si le joueur a toujours des vies le jeu continue avec la difficulté qui augmente. Dans le fond le jeu n'a pas de fin il faut atteindre le plus de points possible et avoir le meilleur pointage pour être le premier!
+- Après avoir perdu les trois vies, il y aura une scène de défaite du joueur, si le joueur a toujours des vies le jeu continue avec la difficulté qui augmente. Dans le fond le jeu n'a pas de fin il faut atteindre le plus de points possible et avoir le meilleur pointage pour être le premier sur le tableau de score!
 
 ## Contenu multimédia à intégrer
 
