@@ -183,31 +183,48 @@ Faire prendre conscience de l'urgence d'avancer le projet ensemble et dans le Gr
 
 ### Résumé des réalisations effectuées
 
+- Branchement du dernier fil XLR du haut-parleur droit
+- Réajustement du câblage suspendu aux tiges de métal du plafond
+- Tests pour s'assurer du bon fonctionnement du projecteur
+- Tests sonores pour s'assurer du bon fonctionnement des haut-parleurs
+
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+![quatrième fichier du projet](/docs/journaux/medias/antoine/realisation-04.jpeg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
 
+L'ensemble des tâches que je m'étais fixés pour la semaine 4 ont été complétés durant cette semaine.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Le seul écart du côté technique concernait l'un des haut-parleurs qui grichait malgré différents tests pour régler ce problème de bruit blanc jouant en même temps que le test sonore.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
+Effectuer des tests pour essayer de régler le problème. Si le problème avec l'un des haut-parleurs persiste, je devrai en référer aux TTP pour trouver une solution.
+
 ### Défis pour la prochaine semaine
+
+- Effectuer des tests jouabilités avec l'avatar dans le jeu
+- Réajustement d'un haut-parleur droit
+- Création d'un environnement d'inspiration Synthwave pour accompagner les éléments centrales du projet
 
 ---
 
@@ -215,31 +232,46 @@ Faire prendre conscience de l'urgence d'avancer le projet ensemble et dans le Gr
 
 ### Résumé des réalisations effectuées
 
+- Tests de jouabilités de l'avatar avec Nicolas St-Martin pour trouver et corriger des bugs de détections et de contrôle de l'avatar
+- Ajustement du haut-parleur droit
+- Création d'un environnement d'inspiration Synthwave
+
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+![cinquième fichier du projet](/docs/journaux/medias/antoine/realisation-05.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
 
+Toutes les tâches ont été faites, mise à part celle du réajustement du haut-parleur droit.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+Prendre l'échelle pour aller faire le réalignement du haut-parleur droit.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
+Du côté technique dont j'ai la charge, il n'y a qu'un petit écart réglabe en 5 minutes(le réajustement du haut-parleur droit). Quant, aux autres parties du projets, il n'y a pas eu d'écarts majeurs. il s'agissait plus de faire des correctifs pour les sons, leurs exportations et leurs ajustement sur Unity. La création de l'avatar par Érick Ouellette n'était pas complétée à la fin de la semaine 5.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
+
+- Création d'un soleil d'inspiration Synthwave
+- Poursuite des tests et de détections de bugs potentiels dans le jeu.
 
 ---
 
