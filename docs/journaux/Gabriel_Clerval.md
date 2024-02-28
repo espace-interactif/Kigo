@@ -177,6 +177,7 @@ Finir la création des effets sonores pour Lundi
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
+j'ai créer plusieurs médias sonores et thèmes musicaux pour notre projet Kigo.J'ai assisté aux problèmes de mon équipe en aidant a régler plusieurs bugs liés au jeu.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -186,11 +187,12 @@ Finir la création des effets sonores pour Lundi
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+Nous avons maintenant une très bonne base de son qui aide a l'interactivité du joueur dans le jeu mais il manque quelques effets sonores pour les obstacles.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -198,7 +200,7 @@ Finir la création des effets sonores pour Lundi
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- x[ ] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -210,7 +212,7 @@ Finir la création des effets sonores pour Lundi
 
 
 ### Défis pour la prochaine semaine
-
+Faire les effets sonores manquants et continuer a mettre a jour les sons crées pour la satisfaction général de l'équipe
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
