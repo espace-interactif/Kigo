@@ -170,22 +170,22 @@ S'assurer que les médias 3D marchent avec l'univers
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+Dans la semaine 5, j'ai commencé à créer un avatar pour remplacer notre ancien modèle dans notre scène unity.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+![Avatar](medias/Erick/avatar.PNG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+ J'ai fini mon modèle de l'avatar et maintenant il est prêt pour son squelette et son exportation.
  
-
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
@@ -203,46 +203,54 @@ S'assurer que les médias 3D marchent avec l'univers
 
 
 ### Défis pour la prochaine semaine
-
+Faire le skinning et le rig et un background visuel. Aussi des obstacles.
 ---
-## Semaine de rattrapage
-### Résumé des réalisations effectuées
 
 
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
-
----
 ## Semaine 6
+### Résumé des réalisations effectuées
+Dans cette semaine, j'ai non seulement fini mon personnage pour la kinect, mais j'ai aussi terminé les obstacles que j'avais commencé et le background visuel du projet.
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+![Montagnes](medias/Erick/montagnes.PNG)
+
+![Obstacles](medias/Erick/obstacles.PNG)
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [ ] Complètement
+- [x] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+ 
+Tout est bien sauf pour l'avatar, l'exportation de ce dernier ne marche pas bien et je n'ai pas trouvé comment régler cela.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+Pendant la semaine de relâche, un des mes coéquipiers va essayer de l'exporter lui-même.
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+
+### Défis pour la prochaine semaine
+
+---
+
+## Semaine de rattrapage
 ### Résumé des réalisations effectuées
 
 
