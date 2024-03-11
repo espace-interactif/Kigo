@@ -279,23 +279,34 @@ Du côté technique dont j'ai la charge, il n'y a qu'un petit écart réglabe en
 
 ### Résumé des réalisations effectuées
 
+- Tests et calibrages de l'expérience
+- Détection des bugs potentiels et communication de ceux-ci
+- Installation et câblage de deux nouvelles lumières
+- Réalisation d'un Daisy Link pour la connexion de lumières
+- Ajout des fixtures dans le logiciel de contrôle des lumières et être contrôlable
+- Orientation appropriées des lumières sur l'emplacement physique de l'expérience
+
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+![sixième fichier du projet](/docs/journaux/medias/antoine/realisation-06.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
 
+L'ensemble des tâches et des objectifs durant la semaine de rattrapge ont pu être effectué sans rencontrer de problèmes pouvant empêcher la réalisation de ce que je devais accomplir pendant la semaine de rattrapage.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -304,6 +315,12 @@ Du côté technique dont j'ai la charge, il n'y a qu'un petit écart réglabe en
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
+
+- Réalisation d'un champ d'étoile sur Unity pour l'arrière-plan du jeu
+- Continuer à faire des tests pour détecter et corriger d'éventuel bugs
+- Ajout d'une lumière supplémentaire à l'espace physique de l'expérience
+- Modification du schéma de plantation
+- Modification du schéma de branchements
 
 ---
 
