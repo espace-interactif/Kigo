@@ -242,7 +242,7 @@ livrer l'avatr qui fonctionne avec les mouvements capté par la Kinect.
 ## Semaine de rattrapage
 
 ### Résumé des réalisations effectuées
-
+Pendant la semaine de rattrapage j'ai été avec mon équipe en studio faire quelques tests, aussi j'ai faire une autre impression 3D de on modèle de protection de la kinect. Celui-ci à été modifié pour peremttre a la kinect d'être le plus protégé.
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
