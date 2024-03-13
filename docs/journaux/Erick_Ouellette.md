@@ -252,7 +252,7 @@ Pendant la semaine de relâche, un des mes coéquipiers va essayer de l'exporter
 
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+Cette semaine, j'ai refait le squelette de mon personnage car il y avait des problèmes avec le mouvement des parties du corps. Un de ces problèmes était le mouvement du bras du personnage qui affectait une autre partie du corps.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -260,13 +260,13 @@ Pendant la semaine de relâche, un des mes coéquipiers va essayer de l'exporter
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai refait le skinning du personnage en infrarouge pour enlever les problèmes.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
