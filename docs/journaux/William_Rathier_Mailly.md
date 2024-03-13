@@ -245,6 +245,8 @@ livrer l'avatr qui fonctionne avec les mouvements capté par la Kinect.
 Pendant la semaine de rattrapage j'ai été avec mon équipe en studio faire quelques tests, aussi j'ai faire une autre impression 3D de on modèle de protection de la kinect. Celui-ci à été modifié pour peremttre a la kinect d'être le plus protégé.
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![image cover kinect v2](medias/will/semaine_rattrapage/IMG_1.jpg)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
