@@ -187,7 +187,7 @@ j'ai créer plusieurs médias sonores et thèmes musicaux pour notre projet Kigo
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [x ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -200,7 +200,7 @@ Nous avons maintenant une très bonne base de son qui aide a l'interactivité du
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- x[ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -216,6 +216,7 @@ Faire les effets sonores manquants et continuer a mettre a jour les sons crées 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
+Les effets sonores, sont complétés et j'ai aidé a l'installation au grand studio.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -225,7 +226,7 @@ Faire les effets sonores manquants et continuer a mettre a jour les sons crées 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -237,7 +238,7 @@ Faire les effets sonores manquants et continuer a mettre a jour les sons crées 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
