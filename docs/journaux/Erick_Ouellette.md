@@ -289,7 +289,7 @@ Cette semaine, j'ai refait le squelette de mon personnage car il y avait des pro
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+Cette semaine j'ai modifié les lanternes qu'on utilisait en tant que vies car certaines personnes ne comprenaient pas que c'étaient des vies. J'ai rajouté des coeurs sur les lanternes pour rendre cela plus clair.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -297,7 +297,7 @@ Cette semaine, j'ai refait le squelette de mon personnage car il y avait des pro
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -310,7 +310,7 @@ Cette semaine, j'ai refait le squelette de mon personnage car il y avait des pro
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
