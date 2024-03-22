@@ -55,10 +55,11 @@ Commencer le projet et se familiariser à nouveau avec les logiciels requis pour
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-J'ai modifié le document de préproduction avec de nouvelles informations à jour tout en ordonnant le document, j'ai ajouté des inspirations d'idées de projet et complété mon sprint#2.
+J'ai modifié le document de préproduction avec de nouvelles informations à jour tout en ordonnant le document pour qu'il soit propre , j'ai ajouté des inspirations d'idées de projet et complété mon sprint#2 ainsi que le scénarimage.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![preproduction](medias/gabriel/preproduction.png)
 
 
 
@@ -96,7 +97,7 @@ Commencer les médias sonores pour le projet et aider mon équipe pour faciliter
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-Apprentissage de l'application FL Studio pour la création des médias sonores, et première création d'un média sonore pour le projet
+Apprentissage de l'application FL Studio pour la création des médias sonores, et première création d'un média sonore pour le projet et correction de l'ancien scénarimage
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -335,6 +336,7 @@ Décoration du grand studio pour créer une ambiance néon sur le sol.
 
 
 ### Défis pour la prochaine semaine
+cacher  l'ordinateur  et les chaises avant la grande ouverture 
 
 
 ## Semaine 8
