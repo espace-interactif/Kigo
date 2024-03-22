@@ -31,10 +31,10 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Moi et mon équipe avons rattrapé le retard qu'on avait puisque nous avons décidé de se joindre en une équipe à la place d'avoir plusieurs projets différents.
+Moi et mon équipe avons rattrapé le retard qu'on avait puisque nous avons décidé de nous joindre en une équipe à la place d'avoir plusieurs projets différents.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Continuer à s'entre-aider en équipe pour trouver une solution rapide et  finir le projet dans les temps.
+Continuer à s'entraider en équipe pour trouver une solution rapide et  finir le projet dans les temps.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -44,10 +44,10 @@ Continuer à s'entre-aider en équipe pour trouver une solution rapide et  finir
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-il n'y à pas d'écarts
+il n'y a pas d'écarts
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-il n'y à pas d'écarts donc il n'y a pas besoin de solution à une situation non existante.
+Il n'y a  pas d'écarts donc il n'y a pas besoin de solution à une situation non existante.
 
 ### Défis pour la prochaine semaine
 Commencer le projet et se familiariser à nouveau avec les logiciels requis pour le projet. 
@@ -55,7 +55,7 @@ Commencer le projet et se familiariser à nouveau avec les logiciels requis pour
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-j'ai modifié le document de préproduction avec des nouvelles informations à jour tout en ordonnant le document, j'ai ajoutés des inspirations d'idées de projet et complété mon sprint#2.
+J'ai modifié le document de préproduction avec de nouvelles informations à jour tout en ordonnant le document, j'ai ajouté des inspirations d'idées de projet et complété mon sprint#2.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -70,7 +70,7 @@ j'ai modifié le document de préproduction avec des nouvelles informations à j
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-j'ai fait tout ce que j'avais à faire dans mon sprint # 2 dans le temps prévu pour  le compléter. 
+J'ai fait tout ce que j'avais à faire dans mon sprint # 2 dans le temps prévu pour  le compléter. 
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -90,7 +90,7 @@ j'ai fait tout ce que j'avais à faire dans mon sprint # 2 dans le temps prévu 
 
 
 ### Défis pour la prochaine semaine
-Commencer les médias sonores pour le projet et aider mon équipe pour faciliter la tache pendant nos semaines chargés avec n'importe quelle aide possible.
+Commencer les médias sonores pour le projet et aider mon équipe pour faciliter la tâche pendant nos semaines chargées avec n'importe quelle aide possible.
 
 
 ---
@@ -100,7 +100,7 @@ Apprentissage de l'application FL Studio pour la création des médias sonores, 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/gabriel/tutorial_fl_studio.PNG)
+![flstudio](medias/gabriel/tutorial_fl_studio.PNG)
 
 
 
@@ -112,7 +112,7 @@ Apprentissage de l'application FL Studio pour la création des médias sonores, 
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Je commence la création des médias pour notre projet en prenant inspiration du style de vaporwave 
+Je commence la création des médias pour notre projet avec inspiration du style de vaporwave 
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -174,11 +174,11 @@ Commencer directement la création des effets sonores
 
 
 ### Défis pour la prochaine semaine
-Finir la création des effets sonores pour Lundi 
+Finir la création des effets sonores pour lundi 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-j'ai créer plusieurs médias sonores et thèmes musicaux pour notre projet Kigo.J'ai assisté aux problèmes de mon équipe en aidant a régler plusieurs bugs liés au jeu.
+J'ai créé plusieurs médias sonores et thèmes musicaux pour notre projet Kigo.J'ai assisté aux problèmes de mon équipe en aidant à régler plusieurs bogues liés au jeu.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -195,7 +195,7 @@ j'ai créer plusieurs médias sonores et thèmes musicaux pour notre projet Kigo
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Nous avons maintenant une très bonne base de son qui aide a l'interactivité du joueur dans le jeu mais il manque quelques effets sonores pour les obstacles.
+Nous avons maintenant une très bonne base de son qui aide à l'interactivité du joueur dans le jeu, mais il manque quelques effets sonores pour les obstacles.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -215,15 +215,15 @@ Nous avons maintenant une très bonne base de son qui aide a l'interactivité du
 
 
 ### Défis pour la prochaine semaine
-Faire les effets sonores manquants et continuer a mettre a jour les sons crées pour la satisfaction général de l'équipe
+Faire les effets sonores manquants et continuer à mettre à jour les sons créés pour la satisfaction générale de l'équipe
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-Les effets sonores, sont complétés et j'ai aidé a l'installation au grand studio.
+Les effets sonores sont complétés et j'ai aidé à l'installation au grand studio.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/gabriel/sons.PNG)
+![sons](medias/gabriel/sons.PNG)
 
 
 
@@ -254,16 +254,18 @@ Les effets sonores, sont complétés et j'ai aidé a l'installation au grand stu
 
 
 ### Défis pour la prochaine semaine
-Finir de décorer notre espace pour le grand studio pour la grande ouverture et amélioration des sons et du mixing!
+Finir de ranger notre espace pour le grand studio pour la grande ouverture et amélioration des sons et du mixing!
 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-décoration du grand studio pour créer une ambiance néon sur le sol.
+j'ai mixé le son encore pour que chaque son puisse être entendu et modifier l'effet des sons pour que chaque son soit différent et aidé à cacher les fils de la kinect et de l'ordinateur sous le tapis pour rendre cela plus propre.
+
+
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![decoration du studio kigo](medias/gabriel/decoration.png)
+![tapis](medias/gabriel/tapis.png)
 
 
 
@@ -298,15 +300,17 @@ décoration du grand studio pour créer une ambiance néon sur le sol.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
+Décoration du grand studio pour créer une ambiance néon sur le sol.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![decoration du studio kigo](medias/gabriel/decoration.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -319,7 +323,7 @@ décoration du grand studio pour créer une ambiance néon sur le sol.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
