@@ -142,10 +142,10 @@ Sonore
 | Esquiver les obstacles                      |
 | Bruit lorsque les obstacles apparaissent | 
 
-## Inspiration des sons
-[Sons inspiration](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/Eld2fcjXAEhBmDJsfvCIT9wBUvEcpuFijtX3mRyLcFBJ6w?e=I9JGxY)
+## Dossier de création des sons KIGO
+[Effets sonores](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/Eld2fcjXAEhBmDJsfvCIT9wBUvEcpuFijtX3mRyLcFBJ6w?e=I9JGxY)
 
-[Sons créé](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/EgQUbqFocVFNo6h2-LQ8FLwBEN8O9gTNXA2a1uFgUKAOwA?e=cwDSsv)
+[Sons de musique de niveaux](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/1952687_cmontmorency_qc_ca/EgQUbqFocVFNo6h2-LQ8FLwBEN8O9gTNXA2a1uFgUKAOwA?e=cwDSsv)
 
 ### Univers artistique des éléments
 
