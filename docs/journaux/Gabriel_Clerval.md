@@ -59,7 +59,7 @@ J'ai modifié le document de préproduction avec de nouvelles informations à jo
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![preproduction](medias/gabriel/preproduction.png)
+![preproduction](medias/gabriel/preproduction.PNG)
 
 
 
