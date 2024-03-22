@@ -263,7 +263,7 @@ décoration du grand studio pour créer une ambiance néon sur le sol.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![decoration du studio kigo](medias/gabriel/decoration.PNG)
+![decoration du studio kigo](medias/gabriel/decoration.png)
 
 
 
