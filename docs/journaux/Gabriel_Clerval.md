@@ -21,7 +21,7 @@
 - Début des recherches pour la création de son
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/gabriel/equipesemaine1.png)
+![l'équipe](medias/gabriel/equipesemaine1.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -182,7 +182,7 @@ j'ai créer plusieurs médias sonores et thèmes musicaux pour notre projet Kigo
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/gabriel/création de musique.PNG)
+![création de la musique](medias/gabriel/création_de_musique.PNG)
 
 
 
@@ -263,7 +263,7 @@ décoration du grand studio pour créer une ambiance néon sur le sol.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/gabriel/decoration.PNG)
+![decoration du studio kigo](medias/gabriel/decoration.PNG)
 
 
 
