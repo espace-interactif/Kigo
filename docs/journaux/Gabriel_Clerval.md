@@ -100,6 +100,7 @@ Apprentissage de l'application FL Studio pour la création des médias sonores, 
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![ici est une description de l'image](medias/gabriel/tutorial_fl_studio.PNG)
 
 
 
@@ -181,6 +182,8 @@ j'ai créer plusieurs médias sonores et thèmes musicaux pour notre projet Kigo
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![ici est une description de l'image](medias/gabriel/création de musique.PNG)
+
 
 
 
@@ -220,6 +223,7 @@ Les effets sonores, sont complétés et j'ai aidé a l'installation au grand stu
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![ici est une description de l'image](medias/gabriel/sons.PNG)
 
 
 
@@ -250,19 +254,22 @@ Les effets sonores, sont complétés et j'ai aidé a l'installation au grand stu
 
 
 ### Défis pour la prochaine semaine
+Finir de décorer notre espace pour le grand studio pour la grande ouverture et amélioration des sons et du mixing!
 
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
+décoration du grand studio pour créer une ambiance néon sur le sol.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![ici est une description de l'image](medias/gabriel/decoration.PNG)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -275,7 +282,7 @@ Les effets sonores, sont complétés et j'ai aidé a l'installation au grand stu
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
