@@ -3,12 +3,19 @@
 ## Semaine 9
 Cette semaine, c'était la présentation des projets au publique donc nous sommes venu au vernissage et Nicolas a créer une liste pour savoir quand chaque personne venait surveiller le projet. Le jeu était populaire.
 
+https://youtu.be/9KOZzKAHbGE?si=8gTTbiFdBPkQEXho
+
+![video de la maquette](medias/horaire.png)
+
 
 ## Semaine 8
 Dans cette semaine, nous avons finaliser le projet en rajoutant un ciel étoilé et un soleil final. Nous avons aussi rajouter des formes avec du ruban adhésif multicouleurs sur la zone de jeu. Les proffesseurs nous ont aussi pointé vers un problème de spatialisation du son que Gabriel Clerval a réglé.
+![video de la maquette](medias/final.jpg)
 
 ## Semaine 7
 Durant cette semaine, nous avons travailler pour finaliser l'avatar car il restait des problèmes de skinning et de rigging à corriger
+
+![Avatar](medias/Erick/avatar.PNG)
 
 ## Semaine 6
 Cette semaine, nous avons commencé la production des effets visuels et sonores finaux. Et aussi des réglages de bugs.
