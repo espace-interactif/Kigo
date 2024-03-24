@@ -326,5 +326,7 @@ Cette semaine j'ai modifié les lanternes qu'on utilisait en tant que vies car c
 
 ## Semaine 8
 
+Pour cette semaine, je suis venu pour le vernissage et j'ai aussi surveiller le projet durant le mercredi soir. Vendredi la majorité de mon équipe et moi sommes aller démanteler notre oeuvre et nous sommes partis après moin de 2 heures.
+
 
 ## Semaine 9
