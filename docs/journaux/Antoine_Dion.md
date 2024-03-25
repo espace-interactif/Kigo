@@ -336,6 +336,8 @@ L'ensemble des tâches et des objectifs durant la semaine de rattrapge ont pu ê
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![septième fichier du projet](/docs/journaux/medias/antoine/realisation-07.png)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [x] Complètement
@@ -366,6 +368,7 @@ L'ensemble des tâches et des objectifs ont été effectués durant cette semain
 - Commencer la création de motifs géométriques à l'aide de rubans fluorescents
 - Achat d'un second ensemble de rubans fluorescents
 - Création d'un ciel étoilé avec le logiciel Unity
+- Exportation d'un soleil vers Unity et création d'un dégradé de couleurs d'inspiration synthwave
 
 ---
 
@@ -373,7 +376,15 @@ L'ensemble des tâches et des objectifs ont été effectués durant cette semain
 
 ### Résumé des réalisations effectuées
 
+- Créer l'installation de la zone du joueur avec du ruban rose fluorescent
+- Commencer la création de motifs géométriques à l'aide de rubans fluorescents
+- Achat d'un second ensemble de rubans fluorescents
+- Création d'un ciel étoilé avec le logiciel Unity
+- Exportation d'un soleil vers Unity et création d'un dégradé de couleurs d'inspiration synthwave
+
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+![huitième fichier du projet](/docs/journaux/medias/antoine/realisation-08.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
@@ -383,6 +394,8 @@ L'ensemble des tâches et des objectifs ont été effectués durant cette semain
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+
+L'ensemble des tâches et des objectifs ont été effectués durant cette semaine sans rencontrer de problèmes susceptibles de nuire à leurs réalisations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -399,8 +412,11 @@ L'ensemble des tâches et des objectifs ont été effectués durant cette semain
 
 ### Défis pour la prochaine semaine
 
+- Arriver lundi matin pour finaliser la création de motifs géométriques à l'aide de rubans fluorescents
+- Assister et participer au vernissage
+- ëtre présent jeudi soir pour surveiller, présenter et expliquer le projet aux visiteurs venant l'essayer
+- Arriver vendredi matin pour démanteler le projet et ranger les équipements empruntés
+
 ## Semaine 8
 
-Cette semaine, je suis allé lundi au vernissage et j'ai surveillé le projet durant le jeudi soir. Par la suite, le Vendredi matin je suis allé démantelé avec la majorité de mon équipe notre projet et nous sommes partis après moins de 2 heures.
-
-## Semaine 9
+Cette semaine, je suis allé lundi au vernissage et j'ai surveillé, présenté et expliqué le projet durant le jeudi soir aux visiteurs. Par la suite, le vendredi matin je suis allé démanteler avec mon équipe notre projet. Également, nous avons rangés et remis les différents équipements empruntés aux TTP.
