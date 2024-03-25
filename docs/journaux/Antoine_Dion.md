@@ -328,23 +328,31 @@ L'ensemble des tâches et des objectifs durant la semaine de rattrapge ont pu ê
 
 ### Résumé des réalisations effectuées
 
+- Réalisation d'un champ d'étoile sur Unity pour l'arrière-plan du jeu
+- Continuer à faire des tests pour détecter et corriger d'éventuel bugs
+- Ajout d'une lumière supplémentaire à l'espace physique de l'expérience
+- Modification du schéma de plantation
+- Modification du schéma de branchements
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
 
+L'ensemble des tâches et des objectifs ont été effectués durant cette semaine sans rencontrer de problèmes susceptibles de nuire à leurs réalisations.
+
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -353,6 +361,11 @@ L'ensemble des tâches et des objectifs durant la semaine de rattrapge ont pu ê
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
+
+- Créer l'installation de la zone du joueur avec du ruban rose fluorescent
+- Commencer la création de motifs géométriques à l'aide de rubans fluorescents
+- Achat d'un second ensemble de rubans fluorescents
+- Création d'un ciel étoilé avec le logiciel Unity
 
 ---
 
@@ -364,7 +377,7 @@ L'ensemble des tâches et des objectifs durant la semaine de rattrapge ont pu ê
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -375,7 +388,7 @@ L'ensemble des tâches et des objectifs durant la semaine de rattrapge ont pu ê
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -387,5 +400,7 @@ L'ensemble des tâches et des objectifs durant la semaine de rattrapge ont pu ê
 ### Défis pour la prochaine semaine
 
 ## Semaine 8
+
+Cette semaine, je suis allé lundi au vernissage et j'ai surveillé le projet durant le jeudi soir. Par la suite, le Vendredi matin je suis allé démantelé avec la majorité de mon équipe notre projet et nous sommes partis après moins de 2 heures.
 
 ## Semaine 9
