@@ -277,8 +277,10 @@ terminer le jeu et commencer à présenter au grand public, pour voir les bugs.
 ## Semaine 7
 
 ### Résumé des réalisations effectuées
+J'ai finalisé avec Antoine et Gabriel le visuel de notre terrain de jeu.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
