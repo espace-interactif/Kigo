@@ -8,10 +8,9 @@
 - [Semaine 4](#semaine-4)
 - [Semaine 5](#semaine-5)
 - [Semaine de rattrapage](#semaine-de-rattrapage)
-- [Semaine 6](#semaine-6)
-- [Semaine 7](#semaine-7)
-- [Semaine 8](#semaine-8)
-- [Semaine 9](#semaine-9)
+- [Semaine 7](#semaine-6)
+- [Semaine 8](#semaine-7)
+- [Semaine 9](#semaine-8)
 
 ## Semaine 1
 
@@ -249,7 +248,7 @@ Pendant la semaine de rattrapage j'ai été avec mon équipe en studio faire que
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -261,48 +260,18 @@ Pendant la semaine de rattrapage j'ai été avec mon équipe en studio faire que
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+Il y a un peu de retard, car du au fait que j'attendais certains assets, maintenant que j'ai tout je dois rattraper le retard.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+redoubler d'effort
 
 ### Défis pour la prochaine semaine
-
----
-
-## Semaine 6
-
-### Résumé des réalisations effectuées
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Peu
-- [ ] Pas du tout
-
-#### Décrivez pourquoi.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-### Mon projet s'est-il réalisé selon l’échéancier prévu?
-
-- [ ] Complètement
-- [ ] Assez
-- [ ] Un peu
-- [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-### Défis pour la prochaine semaine
-
+terminer le jeu et commencer à présenter au grand public, pour voir les bugs.
 ---
 
 ## Semaine 7
@@ -335,6 +304,38 @@ Pendant la semaine de rattrapage j'ai été avec mon équipe en studio faire que
 
 ### Défis pour la prochaine semaine
 
+---
+
 ## Semaine 8
 
+### Résumé des réalisations effectuées
+
+### Image d'une réalisation dont tu es la ou le plus fier
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [ ] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+#### Décrivez pourquoi.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [ ] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+#### S'il y a des écarts, décrivez-les.
+
+#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+
+### Défis pour la prochaine semaine
+
 ## Semaine 9
+
+
