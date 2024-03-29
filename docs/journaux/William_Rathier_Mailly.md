@@ -277,14 +277,17 @@ terminer le jeu et commencer à présenter au grand public, pour voir les bugs.
 ## Semaine 7
 
 ### Résumé des réalisations effectuées
-J'ai finalisé avec Antoine et Gabriel le visuel de notre terrain de jeu.
+J'ai finalisé avec Antoine et Gabriel le visuel de notre terrain de jeu. Aussi j'ai fais la vidéo de bande annonce de notre projet.
+[vidéo bande annonce Kigo](https://www.youtube.com/watch?v=9KOZzKAHbGE)
+
+J'ai aussi complété les courriels pour les demandes de budget et de classe pour le vernissage.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image terrain de jeu](medias/will/photo_terrain.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -295,39 +298,43 @@ J'ai finalisé avec Antoine et Gabriel le visuel de notre terrain de jeu.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
+le seul écarts qui a eu cette semaine la c'est le fait de ne pas avoir fini les vidéos
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Parler à l'équipe pour faire les vidéos a temps.
 
 ### Défis pour la prochaine semaine
+Présenter notre projet sans bug et que tout le monde soit fier de notre projet.
 
 ---
 
 ## Semaine 8
 
 ### Résumé des réalisations effectuées
+Cette semaine a commencer avec le vernissage et je m'occupais, avec gabriel, du commité de préparation de cet événements plus précisément la nourriture. Donc le lundi, j'ai été complèter les achats avec Gab et nous avons préparer les salle de classe pour inviter les gens a mangfer des bouchées.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+Nous avons compléter le projet dasns les temps et le invités et profs sont contents de ce que nous avons produit.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -337,7 +344,7 @@ J'ai finalisé avec Antoine et Gabriel le visuel de notre terrain de jeu.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
-
+Finir les vidéos et journaux
 ## Semaine 9
-
+J'ai finalisé mon journal pour bien conclure le projet final de technique.
 
