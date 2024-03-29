@@ -8,9 +8,9 @@
 - [Semaine 4](#semaine-4)
 - [Semaine 5](#semaine-5)
 - [Semaine de rattrapage](#semaine-de-rattrapage)
-- [Semaine 7](#semaine-6)
-- [Semaine 8](#semaine-7)
-- [Semaine 9](#semaine-8)
+- [Semaine 7](#semaine-7)
+- [Semaine 8](#semaine-8)
+- [Semaine 9](#semaine-9)
 
 ## Semaine 1
 
